@@ -42,6 +42,7 @@ int lastoccurence(vector<int>&nums, int target, int n){
     vector<int> searchRange(vector<int>& nums, int target) {
      int n= nums.size();
      int fr=firstoccurence(nums,target,n);
+     if(fr==-1) return {-1,-1};
      int ls=lastoccurence(nums,target,n);
      return {fr,ls};
 }
