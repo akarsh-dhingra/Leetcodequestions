@@ -23,6 +23,6 @@ public:
         }
       }
     }
-    return mid;
+    return -1;
     }
 };
