@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0242-valid-anagram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -76,4 +77,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
