@@ -12,7 +12,7 @@ public:
             }
            }
         // use mapping 
-         string ans="";
+         string ans;
          for(auto ch:message){
             if(ch==' '){
             ans.push_back(' ');
