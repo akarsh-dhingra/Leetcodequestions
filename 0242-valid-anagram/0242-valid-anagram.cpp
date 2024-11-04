@@ -1,17 +1,11 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        int hash[256]={};
-        for(int i=0;i<s.size();i++){
-              hash[s[i]]++;
-        }
-
-        for(int i=0;i<t.size();i++){
-              hash[t[i]]--;
-        }
-        for(int i=0;i<256;i++){
-            if(hash[i]!=0) return false ;
-        }
-        return true;
+      if(s.size()!=t.size()) return false;
+      // anagram
+      sort(s.begin(),s.end());
+      sort(t.begin(),t.end());
+      if(s==t) return true;
+      else return false;
     }
 };
