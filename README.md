@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0162-find-peak-element) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0205-isomorphic-strings) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0242-valid-anagram) |
 | [0807-custom-sort-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0807-custom-sort-string) |
 ## Stack
