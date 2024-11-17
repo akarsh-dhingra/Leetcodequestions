@@ -10,24 +10,26 @@
  */
 class Solution {
 public:
-
-    ListNode* middleNode(ListNode* head) {
-        if(head==NULL|| head->next==NULL) return head;
-        ListNode*temp=head;
-        int count=0;
-        while(temp!=NULL){
+int cntofll(ListNode*head){
+    int cnt=0;
+    ListNode*temp=head;
+    while(temp!=nullptr){
         temp=temp->next;
-        count++;
-       }
-       int mid=count/2 +1;
-       temp=head;
-       while(temp!=NULL){
-        mid--;
-        if(mid==0){
-            break;
-        }
-        temp=temp->next;
+        cnt++;
     }
-    return temp;
+    return cnt;
+}
+    ListNode* middleNode(ListNode* head) {
+        if(head==NULL|| head->next==nullptr) return head;
+        ListNode*temp=head;
+        int midnode=cntofll(head)/2 +1;
+        while(temp!=NULL){
+            temp=temp->next;
+            midnode--;
+            if(midnode==1){
+                break;
+            }
+        }
+           return temp;
     }
 };
