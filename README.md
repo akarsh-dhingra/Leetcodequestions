@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0680-valid-palindrome-ii) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
