@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0792-binary-search) |
 | [0926-find-and-replace-pattern](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0926-find-and-replace-pattern) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Binary Search
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Trie
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0812-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
