@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0926-find-and-replace-pattern) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0807-custom-sort-string) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
