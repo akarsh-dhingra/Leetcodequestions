@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2406-decode-the-message](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2406-decode-the-message) |
 ## Bit Manipulation
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0050-powx-n) |
+| [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Trie
@@ -173,5 +177,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
