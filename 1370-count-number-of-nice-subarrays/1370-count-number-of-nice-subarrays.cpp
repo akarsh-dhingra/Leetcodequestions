@@ -1,0 +1,21 @@
+class Solution {
+public: int numSubarraysWithSumlesserthangoal(vector<int>& nums, int k){
+    if(k<0) return 0;
+    int n=nums.size();
+    int sum=0;
+    int cnt=0;
+    int l=0;
+    for(int r=0;r<n;r++){
+        sum=sum+(nums[r]%2);
+        while(sum>k){
+            sum-=(nums[l]%2);
+            l++;
+        }
+        cnt+=(r-l+1);
+    }
+return cnt;
+ }
+    int numberOfSubarrays(vector<int>& nums, int k) {
+       return numSubarraysWithSumlesserthangoal(nums,k)-numSubarraysWithSumlesserthangoal(nums,k-1);
+    }
+};
