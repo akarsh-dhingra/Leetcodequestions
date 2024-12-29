@@ -1,28 +1,24 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        map<int,int>ngemap;
+        stack<int>st;
+        for(int i=nums2.size()-1;i>=0;i--){
+            while(!st.empty()&&st.top()<=nums2[i]){
+                st.pop(); // I am not finding any next greaeter element I start popping outapplicable for less and equal cases 
+            }
+            if(st.empty()){
+                ngemap[nums2[i]]=-1; // if initially stack is empty from the back push -1l
+            }
+            else{
+                ngemap[nums2[i]]=st.top(); // 
+            }
+            st.push(nums2[i]);
+        }
         vector<int>ans;
-        int n=nums1.size();
-        int m=nums2.size();
-        for(int i=0;i<n;i++){
-            int pos=-1; // find the position of the element of nums in nums2
-            for(int j=0;j<m;j++){
-                if(nums1[i]==nums2[j]){
-                    pos=j;
-                    break;
-                }
-            }
-        int Nge=-1;
-        if(pos!=-1){
-        for(int k=pos+1;k<m;k++){
-            if(nums2[k]>nums2[pos]){
-                Nge=nums2[k];
-                break;
-            }
+        for(auto it:nums1){
+            ans.push_back(ngemap[it]);
         }
-        }
-        ans.push_back(Nge);
-        }
-return ans;
+        return ans;
     }
 };
