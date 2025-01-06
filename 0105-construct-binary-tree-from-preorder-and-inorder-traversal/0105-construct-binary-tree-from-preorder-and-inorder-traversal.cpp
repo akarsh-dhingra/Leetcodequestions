@@ -11,65 +11,29 @@
  */
 class Solution {
 public:
-    TreeNode* constructreefrominandpreordertraversal(vector<int>& preorder, vector<int>& inorder,int size,unordered_map<int, int>&valueToIndexMap,int &preorderIndx, int inorderStart,int inorderend){
-        if(preorderIndx>=size||inorderStart>inorderend){
-            return NULL;
-        }
-        int element=preorder[preorderIndx];
-        preorderIndx++;
-        TreeNode*root= new TreeNode(element);
-           int elementpos= valueToIndexMap[element];
-        root->left=constructreefrominandpreordertraversal(preorder,inorder,size,valueToIndexMap,preorderIndx,inorderStart,elementpos-1);
-        root->right=constructreefrominandpreordertraversal(preorder,inorder,size,valueToIndexMap,preorderIndx,elementpos+1,inorderend);
-        return root;
-    }
+TreeNode* constructbinarytreefrompreorderandinordertraversal(vector<int>& preorder, vector<int>& inorder,int inorderstart,int &preorderIndx,int inorderend,int size,unordered_map<int,int>&valuetoindexmap){
+if(preorderIndx>=size||inorderstart>inorderend){
+    return NULL;
+}
+// Step 1:
+int element=preorder[preorderIndx];
+preorderIndx++;
+// Step 2:
+TreeNode*root=new TreeNode(element);
+int posn=valuetoindexmap[element];
+root->left=constructbinarytreefrompreorderandinordertraversal(preorder, inorder, inorderstart, preorderIndx,posn-1,size,valuetoindexmap);
+root->right=constructbinarytreefrompreorderandinordertraversal(preorder, inorder, posn+1, preorderIndx,inorderend,size,valuetoindexmap);
+return root;
+}
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int size=preorder.size();
-        int preorderIndx=0;
-        int inorderStart=0;
-        int inorderend=size-1;
-    unordered_map<int, int> valueToIndexMap;
-    for (int i = 0; i < size; i++){
-        valueToIndexMap[inorder[i]] = i;
+     int inorderstart=0;
+     int preorderIndx=0;
+     int inorderend=preorder.size()-1;
+     int size=preorder.size();
+     unordered_map<int,int>valuetoindexmap;
+     for(int i=0;i<size;i++){
+        valuetoindexmap[inorder[i]]=i;
+     }
+     return constructbinarytreefrompreorderandinordertraversal(preorder,inorder,inorderstart,preorderIndx,inorderend,size,valuetoindexmap);
     }
-        return constructreefrominandpreordertraversal(preorder,inorder,size,valueToIndexMap,preorderIndx,inorderStart,inorderend);
-    }
-//     TreeNode* constructTreeFromInAndPreOrder(vector<int>& preorder, vector<int>& inorder, 
-//                                          int size, int& preorderIndex, 
-//                                          int inorderStart, int inorderEnd, 
-//                                          unordered_map<int, int>& valueToIndexMap) {
-//     if (preorderIndex >= size || inorderStart > inorderEnd) {
-//         return NULL;
-//     }
-
-//     // Get the current root element and move the preorder index forward
-//     int element = preorder[preorderIndex];
-//     preorderIndex++:
-//     TreeNode* root = new TreeNode(element);
-
-//     // Get the position of the element in the inorder traversal using the map
-//     int elementPos = valueToIndexMap[element];
-
-//     // Recursive calls for left and right subtrees
-//     root->left = constructTreeFromInAndPreOrder(preorder, inorder, size, preorderIndex, inorderStart, elementPos - 1, valueToIndexMap);
-//     root->right = constructTreeFromInAndPreOrder(preorder, inorder, size, preorderIndex, elementPos + 1, inorderEnd, valueToIndexMap);
-
-//     return root;
-// }
-
-// TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-//     int size = preorder.size();
-//     int preorderIndex = 0;
-//     int inorderStart = 0;
-//     int inorderEnd = size - 1;
-
-//     // Create a map for the inorder traversal to quickly find element positions
-//     unordered_map<int, int> valueToIndexMap;
-//     for (int i = 0; i < size; i++) {
-//         valueToIndexMap[inorder[i]] = i;
-//     }
-
-//     // Call the recursive function
-//     return constructTreeFromInAndPreOrder(preorder, inorder, size, preorderIndex, inorderStart, inorderEnd, valueToIndexMap);
-// }
 };
