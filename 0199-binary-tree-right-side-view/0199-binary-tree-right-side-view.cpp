@@ -11,19 +11,39 @@
  */
 class Solution {
 public:
-void  printrightview(TreeNode* root,int level,vector<int> &rightans){
-if(root==NULL){
-    return;
-}
-if(level==rightans.size()){
-    rightans.push_back(root->val);
-}
-printrightview(root->right,level+1,rightans);
-printrightview( root->left, level+1,rightans);
-}
+    vector<int> levelordertraversalrightview(TreeNode* root){
+        vector<int>temp;
+        if(root==NULL){
+            return temp;
+        }
+        queue<TreeNode*>q;
+        q.push(root);
+        q.push(NULL);
+        temp.push_back(root->val);
+        while(!q.empty()){
+            TreeNode*currele=q.front();
+            q.pop();
+            if(currele==NULL){
+                if(!q.empty()){
+                TreeNode*ele=q.front();
+                temp.push_back(ele->val);
+                q.push(NULL);
+            }
+            else {}
+            }
+            else{
+                if(currele->right!=NULL){
+                    q.push(currele->right);
+                }
+                if(currele->left!=NULL){
+                    q.push(currele->left);
+                }  
+            }
+        }
+        return temp;
+    }
     vector<int> rightSideView(TreeNode* root) {
-       vector<int> rightans;
-       printrightview(root,0,rightans);
-       return rightans;
+       vector<int>a=levelordertraversalrightview(root);
+       return a;
     }
 };
