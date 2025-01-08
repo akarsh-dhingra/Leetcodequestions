@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2406-decode-the-message](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2406-decode-the-message) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0543-diameter-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0543-diameter-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0199-binary-tree-right-side-view) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0543-diameter-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
 |  |
 | ------- |
