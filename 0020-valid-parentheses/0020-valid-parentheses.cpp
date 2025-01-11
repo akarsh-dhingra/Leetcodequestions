@@ -3,21 +3,28 @@ public:
     bool isValid(string s) {
         stack<int>st;
         for(int i=0;i<s.size();i++){
-          if(s[i]=='('||s[i]=='{'||s[i]=='['){  
-            st.push(s[i]);
-          }
+            char ch=s[i];
+            if(ch=='['||ch=='{'||ch=='('){
+                /// saare opening bracetss
+                st.push(ch);
+            }
             else{
-                if(st.empty()){
+                if(!st.empty()){
+                if((ch=='}'&&st.top()=='{')||(ch==']'&&st.top()=='[')||(ch==')'&&st.top()=='(')){
+                    st.pop();
+                }
+                else{
+                    // mismatch
                     return false;
                 }
-                char ch=st.top();
-                st.pop();
-                if((s[i]==')'&&ch=='(')||(s[i]=='}'&&ch=='{')||(s[i]==']'&&ch=='[')){
                 }
-                else return false;
+                else{
+                    // stack empty tha dekhne gya tha
+                  return false;                   
+                }
+            }
         }
-        }
-        if(!st.empty()) return false;
-        return true;
+        if(st.empty()) return true;
+        return false;
     }
 };
