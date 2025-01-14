@@ -5,28 +5,34 @@ public:
     MyStack() {}
   
     void push(int x) {
-        int size=q.size();
-        q.push(x);
-        for(int i=0;i<size;i++){
-            q.push(q.front());
-            q.pop();
-        }
+      q.push(x);
+      for(int i=0;i<q.size()-1;i++){
+        int front=q.front();
+        q.pop();
+        q.push(front);
+      }
     }
     int pop() {
-        if (q.empty()) return -1;
-        int topElement = q.front();
-        q.pop();
-        return topElement;
+    if(q.size()==0){
+            return -1;
+    }
+    int front=q.front();
+    q.pop();
+    return front;
     }
     
     int top() {
-         if (q.empty()) return -1;
-         int topele=q.front();
-        return topele; 
+    if(q.size()==0){
+            return -1;
+    }   
+   int top=q.front();
+   return top;
     }
-    
     bool empty() {
-         return q.empty();
+         if(q.size()==0){
+            return true;
+         }
+         return false;
     }
 };
 
