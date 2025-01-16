@@ -13,9 +13,6 @@ public:
                 nge[i]=nums[indx];
                 break;
             }
-            else{
-                nge[i]=-1;
-            }
             }
         }
         return nge;
