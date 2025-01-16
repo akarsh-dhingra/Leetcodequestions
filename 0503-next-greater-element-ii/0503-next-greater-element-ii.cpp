@@ -2,23 +2,22 @@ class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
         int n=nums.size();
-        if (n == 0) return {};
-          vector<int>ans(n,0);
-        stack<int>st;
-        for(int i=2*n-1;i>=0;i--){
-            while(!st.empty()&&st.top()<=nums[i%n]){
-                st.pop();
-            }
-            if(i<n){
-            if(!st.empty()){
-                ans[i]=st.top();
+        vector<int>nge(n,-1);  // if not declared will give segmentation fault.
+        if(n==1){
+            return nge;
+        }
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<=i+n-1;j++){  // circular array: we have to compare every element with all the element  in the array for that we need to make sure that window size is ==N all the time.
+            int indx=j%n;
+            if(nums[indx]>nums[i]){
+                nge[i]=nums[indx];
+                break;
             }
             else{
-                ans[i]=-1;
+                nge[i]=-1;
             }
             }
-            st.push(nums[i%n]);
         }
-        return ans;
+        return nge;
     }
 };
