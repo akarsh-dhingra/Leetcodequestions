@@ -1,9 +1,9 @@
 class Solution {
 public:
     string removeKdigits(string num, int k) {
-        if(num.empty()){
-            return "";
-        }
+        // if(num.empty()){
+        //     return "";
+        // }
         stack<char>st;
         for(int i=0;i<num.length();i++){
             while((!st.empty()&&k>0)&&(st.top()-'0')>(num[i]-'0')){
