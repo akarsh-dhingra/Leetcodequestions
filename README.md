@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0049-group-anagrams) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0078-subsets) |
 ## Math
 |  |
