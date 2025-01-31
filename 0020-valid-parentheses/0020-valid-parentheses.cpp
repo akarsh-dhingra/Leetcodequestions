@@ -5,10 +5,9 @@ public:
         for(int i=0;i<s.size();i++){
             char ch=s[i];
             if(ch=='['||ch=='{'||ch=='('){
-                /// saare opening bracetss
                 st.push(ch);
             }
-            else{
+                else{
                 if(!st.empty()){
                 if((ch=='}'&&st.top()=='{')||(ch==']'&&st.top()=='[')||(ch==')'&&st.top()=='(')){
                     st.pop();
@@ -23,7 +22,7 @@ public:
                   return false;                   
                 }
             }
-        }
+            }
         if(st.empty()) return true;
         return false;
     }
