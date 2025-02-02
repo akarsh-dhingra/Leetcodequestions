@@ -22,7 +22,8 @@ public:
         ans+=(1L<<(cnt));
         n-=(d<<(cnt));
        }
-     if (ans > INT_MAX) return sign ? INT_MAX : INT_MIN;
-    return sign ? ans : -ans;
+       cout<<ans;
+         if (ans > INT_MAX) return sign ? INT_MAX : INT_MIN;
+       return sign?ans:-ans;
     }
 };
