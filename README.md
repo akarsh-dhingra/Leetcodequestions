@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0455-assign-cookies) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1046-max-consecutive-ones-iii) |
