@@ -12,12 +12,14 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
+        // ak case solve krta hu jisme koi node hee nahi h
         if(root==NULL){
             return 0;
         }
-        int rightlen=maxDepth(root->right);
-        int leftlen=maxDepth(root->left);
-        int maxlen=max(rightlen,leftlen)+1;
+        // No. of levels= depth of BT.
+        int leftHeight=maxDepth(root->left); 
+        int rightHeight=maxDepth(root->right);
+        int maxlen=max(leftHeight,rightHeight)+1;
         return maxlen;
     }
 };
