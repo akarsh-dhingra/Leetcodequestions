@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0257-binary-tree-paths) |
 ## Math
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0424-longest-repeating-character-replacement) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0543-diameter-of-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0783-search-in-a-binary-search-tree) |
