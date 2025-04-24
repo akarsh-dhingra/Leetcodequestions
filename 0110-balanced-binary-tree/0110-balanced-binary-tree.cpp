@@ -11,28 +11,22 @@
  */
 class Solution {
 public:
-int maxdepth(TreeNode* root){
-if(root==NULL){
-    return 0;
-}
-int left=maxdepth(root->left);
-int right=maxdepth(root->right);
-int ans=max(left,right)+1;
-return ans;
+int heightTree(TreeNode* root){
+    if(root==NULL){
+        return 0;
+    }
+    int leftTree=heightTree(root->left);
+    int rightTree=heightTree(root->right);
+    int ans=max(rightTree,leftTree)+1;
+    return ans;
 }
     bool isBalanced(TreeNode* root) {
-        if(root==NULL){
-            return true;
-        }
-        int heightLeft=maxdepth(root->left);
-        bool leftans=isBalanced(root->left);
-        int heightRight=maxdepth(root->right);
-        bool rightans=isBalanced(root->right);
-        int diff=abs(heightLeft-heightRight);
-        bool currnoans=(diff<=1);
-        if(currnoans&&rightans&&leftans){
-         return true;
-        }
-        else return false;
+     if(root==NULL) return true;
+if(isBalanced(root->left)&&isBalanced(root->right)){
+    if(abs(heightTree(root->left)-heightTree(root->right))<=1){
+        return true;
+    }
+}
+        return false;
     }
 };
