@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0503-next-greater-element-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0907-koko-eating-bananas) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0560-subarray-sum-equals-k) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2032-largest-odd-number-in-string) |
 ## String
@@ -204,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0455-assign-cookies) |
 | [0807-custom-sort-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0807-custom-sort-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
