@@ -27,7 +27,7 @@ bool ans(TreeNode* root,int targetSum,int sum){
     return leftAns||rightAns;
 }
     bool hasPathSum(TreeNode* root, int targetSum) {
-     
-       return ans(root,targetSum,0);
+     if(root==NULL) return false;
+      else return ans(root,targetSum,0);
     }
 };
