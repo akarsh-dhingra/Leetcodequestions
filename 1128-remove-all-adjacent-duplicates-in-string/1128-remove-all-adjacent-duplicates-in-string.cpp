@@ -9,19 +9,23 @@ public:
         // string ko built krte hai from scratch -> Pattern
         // find 
         int len=s.length();
-        string ans;
         int indx=0;
-        while(indx < s.length()){
-           // same
-           // ans ka rightmost char delete krdenge and string s ka curr char
-           if(ans.length()>0&&ans[ans.length()-1]==s[indx]){
-            ans.pop_back();
-           }
-          else {
-            ans.push_back(s[indx]);
-          }
-          indx++;
+        stack<int>st;
+        string res="";
+        while(indx<len){
+            if(st.size()>0&&st.top()==s[indx]){
+                st.pop();
+            }
+            else{
+                st.push(s[indx]);
+            } 
+            indx++;
         }
-        return ans;
+        while(!st.empty()){
+          res.push_back(st.top());
+          st.pop();
+        }
+        reverse(res.begin(),res.end());
+        return res;
     }
 };
