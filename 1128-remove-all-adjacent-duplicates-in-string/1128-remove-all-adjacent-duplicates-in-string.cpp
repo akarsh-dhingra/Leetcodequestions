@@ -10,7 +10,7 @@ public:
         int len=s.length();
         string ans;
         int indx=0;
-        while(s[indx]!='\0'){
+        while(indx < s.length()){
             if(s[indx]==s[indx+1]){
                 s.erase(indx,2);
                 indx=0;
