@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2032-largest-odd-number-in-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
