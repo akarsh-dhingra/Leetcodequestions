@@ -10,15 +10,17 @@ class Solution {
 public:
     bool hasCycle(ListNode *head) {
          // hashing
-         map<ListNode*,int>mpp;
-         ListNode*temp=head;
-         while(temp){
-         if(mpp.find(temp)!=mpp.end()){
-            return true;
-         }
-         mpp[temp]=1;
-         temp=temp->next;
-         }
+        unordered_map<ListNode*,bool>mapping;
+        ListNode*temp=head;
+        while(temp){
+            if(mapping.find(temp)!=mapping.end()){
+                return true;
+            }
+            else{
+                mapping[temp]=true;
+            }
+            temp=temp->next;
+        }
          return false;
     }
 };
