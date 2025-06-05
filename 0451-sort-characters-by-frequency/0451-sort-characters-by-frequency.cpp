@@ -1,23 +1,30 @@
 class Solution {
 public:
     string frequencySort(string s) {
-       // frequency of letter
-       vector<int>hash(256,0);
-       for(int i=0;i<s.size();i++){
-        hash[s[i]]++;
+        unordered_map<char, int> freq;
+        for(char c:s){
+            freq[c]++;
         }
-    vector<pair<char, int>> freq;
-    for (int i = 0; i < 256; i++) {
-        if (hash[i]) freq.push_back({(char)i, hash[i]});
-    }
-    sort(freq.begin(), freq.end(), [](auto &a, auto &b) {
+        // frequency stored!
+// data copied from map into vector
+        vector<pair<char,int>>freqVec(freq.begin(),freq.end());
+        // sorted as per frequecy
+     sort(freqVec.begin(), freqVec.end(), [](auto &a, auto &b) {
         return a.second > b.second;
     });
-
     string res;
-    for (auto &p : freq)
-        res += string(p.second, p.first);
+    for(auto it:freqVec){
+        res.append(it.second,it.first);
+    }
 
-    return res;
+        // int freqmax=INT_MIN;
+        // for(auto it:mpp){
+        //     freqmax=max(freqmax,it.second);
+        // }
+        // vector<int>t(mpp.size());
+        // for(auto it:t){
+        //     t.push_back()
+        // }
+        return res;
     }
 };
