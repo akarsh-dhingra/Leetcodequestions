@@ -1,7 +1,7 @@
 class Solution {
 public:
  int subsetsum(vector<int>&coins,int amount,int n){
-    vector<vector<int>> t(n + 1, vector<int>(amount + 1, 0));
+ vector<vector<double>>t(n + 1, vector<double>(amount + 1, 0));
   for(int i = 0; i < n + 1; i++) {
         t[i][0] = 1; // Only base case needed
     }
