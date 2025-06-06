@@ -1,16 +1,20 @@
 class Solution {
 public:
-    string removeDuplicates(string s) {
- int n=s.length();
- int i=0;
- while(i<n){
-    if(s[i]==s[i+1]){
-        s.erase(i,2);
-        i=0;
-        continue;
+string removeDuplicates(string s) {
+int n=s.length();
+stack<int>st;
+for(int i=0;i<s.length();i++){
+    if(st.size()>0&&st.top()==s[i]){
+        st.pop();
     }
-   else i++;
- }
- return s;
+    else st.push(s[i]);
+}
+string ans="";
+while(st.size()>0){
+    ans+=st.top();
+    st.pop();
+}
+reverse(ans.begin(),ans.end());
+return ans;
     }
 };
