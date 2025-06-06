@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0494-target-sum) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0055-jump-game) |
+| [0322-coin-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0518-coin-change-ii) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0322-coin-change) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
