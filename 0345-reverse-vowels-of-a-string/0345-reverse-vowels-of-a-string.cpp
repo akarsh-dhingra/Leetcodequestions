@@ -7,22 +7,22 @@ bool checkvowel(char ch){
     else return false;
 }
     string reverseVowels(string s) {
-        // a,e,i,o,u,A,E,I,O,U 
-        // vowels ko ak string mai daalkr reverse kre
-        // now use this reversed string to be present at the locations.
-        int low=0;
-        int high=s.size()-1;
-        while(low<high){
-            if(checkvowel(s[low])&&checkvowel(s[high])){
-                swap(s[low],s[high]);
-                low++;
-                high--;
-            }
-            else if(!checkvowel(s[low])){
-                low++;
-            }
-            else high--;
+      int low=0;
+      int high=s.size()-1;
+
+      while(low<=high){
+        if(checkvowel(s[low])&&checkvowel(s[high])){
+            swap(s[low],s[high]);
+            low++;
+            high--;
         }
-        return s;
+        else if(!checkvowel(s[low])){
+            low++;
+        }
+        else{
+            high--;
+        }
+      }
+      return s;
     }
 };
