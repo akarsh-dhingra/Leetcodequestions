@@ -11,7 +11,7 @@ public:
             for(auto str:strs){
                 // if length exceeded yahi fasenge
                 if(i>=str.size()){
-                    curr_ch=0;
+                    curr_ch=0; // this lines means aage aur kuch nahi hai 
                     break;
                 }
                 // if curr_ch==0
