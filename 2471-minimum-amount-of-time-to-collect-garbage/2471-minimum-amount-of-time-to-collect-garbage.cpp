@@ -1,51 +1,51 @@
 class Solution {
 public:
     int garbageCollection(vector<string>& garbage, vector<int>& travel) {
-        // picking times
-        int pickP=0; // picking plastic time.
-        int pickM=0; // picking metal time.
-        int pickG=0; // picking glass time.
-        // travelling times
-        int travelP=0; // travelling plastic time.
-        int travelM=0; // travelling metal time.
-        int travelG=0; // travelling glass time.
-        // any truck will go till that particular indx jahan tak usse uska item mil rha hai.
-        int lastP=0;
-        int lastG=0;
-        int lastM=0;
+        int pickM=0;
+        int pickG=0;
+        int pickP=0;
 
-        // calculate pick time and travel time
-        for(int i=0;i<garbage.size();i++){
-            string curr=garbage[i];
-            for(int j=0;j<curr.size();j++){
-                char ch=curr[j];
-                if(ch=='P'){
-                 pickP+=1;
-                 lastP=i;
-                }
-                else if(ch=='G'){
-               pickG+=1;
-               lastG=i;
-                }
-                else{
-                 pickM+=1;
-                 lastM=i;
-                }
+        // three trucks paper truck,garbage truck and  metal truck.
+        int travelP=0;
+        int travelM=0;
+        int travelG=0;
+
+        int lastP=0;
+        int lastM=0;
+        int lastG=0;
+// inn teeno ka use krkr mai travel time nikal lunga because merko pta hai 
+// plastic khata krne ka liye klha tk jaan hai and so on.
+        // calculate pick and travel time
+
+       int i=0;
+        for(auto str:garbage){
+            string curr=str;
+           for(char c:curr){
+            if(c=='P'){
+                pickP+=1;
+                lastP=i;
             }
-        }
-        
-        // calculate travelling times
-        for(int i=0;i<lastP;i++){
-            travelP+=travel[i];
-        }
-        for(int i=0;i<lastG;i++){
-            travelG+=travel[i];
+            else if(c=='G'){
+                pickG+=1;
+                lastG=i;
+            }
+            else {
+                pickM+=1;
+                lastM=i;
+            }
+           }
+           i++;
         }
         for(int i=0;i<lastM;i++){
             travelM+=travel[i];
         }
-
-        int ans=(pickP+travelP)+(pickM+travelM)+(pickG+travelG);
+        for(int i=0;i<lastG;i++){
+            travelG+=travel[i];
+        }
+        for(int i=0;i<lastP;i++){
+        travelP+=travel[i];
+        }
+int ans=(pickP+travelP)+(pickM+travelM)+(pickG+travelG);
         return ans;
     }
 };
