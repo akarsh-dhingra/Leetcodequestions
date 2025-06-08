@@ -1,27 +1,27 @@
 class Solution {
 public:
 /// using hashing one approach will be possible: 
-    string decodeMessage(string key, string message) {
-        // create mapping 
-           char start='a';
-           char mapping[128]={0};
-           for(auto it : key){
-            if(it!=' '&& mapping[it]==0){
-            mapping[it]=start;// it hai voh key[0] par hai abhi intially 
-            start++;
+    string decodeMessage(string key, string message) { 
+        unordered_map<char,char>mpp;
+        // vector<char>hash(26);
+        vector<char>seen(26,0);
+        // for(int i=0;i<26;i++){
+        //     hash[i]=(char)i+97;
+        // }
+        char alpha = 'a';
+   for(char c:key){
+    if(c!=' '&&mpp.find(c)==mpp.end()){
+        mpp[c]=alpha;
+        alpha++;
+    }
+   }
+        string res="";
+        for(int i=0;i<message.size();i++){
+            if(message[i]==' '){
+                res+=' ';
             }
-           }
-        // use mapping 
-         string ans;
-         for(auto ch:message){
-            if(ch==' '){
-            ans.push_back(' ');
-            }
-            else{
-                 char decodeChara=mapping[ch];
-                 ans.push_back(decodeChara);
-            }
-         }
-         return ans;
+            else res.push_back(mpp[message[i]]);
+        }
+        return res;
     }
 };
