@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0518-coin-change-ii) |
+| [0539-minimum-time-difference](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0792-binary-search) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2032-largest-odd-number-in-string) |
 ## String
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0680-valid-palindrome-ii) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0455-assign-cookies) |
+| [0539-minimum-time-difference](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0539-minimum-time-difference) |
 | [0807-custom-sort-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0807-custom-sort-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1966-frequency-of-the-most-frequent-element) |
