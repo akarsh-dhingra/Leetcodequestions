@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0386-lexicographical-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0543-diameter-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
