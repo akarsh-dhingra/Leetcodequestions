@@ -1,15 +1,18 @@
 class Solution {
 public:
 vector<char> createmapping(string&s,string&t){
-    vector<bool>seen(256,false);
-    vector<char>hash(256,0);
+    vector<char>hash(256,0);// mapping unordered map could also be used.
+    vector<bool>istcharsmapped(256,false); // characters are already mapped this character has al
+    // been mapped previously
+
     for(int i=0;i<s.size();i++){
-        if(!seen[t[i]]&&hash[s[i]]==0){
+        if(!istcharsmapped[t[i]]&&hash[s[i]]==0){
             hash[s[i]]=t[i];
-            seen[t[i]]=true;
+            istcharsmapped[t[i]]=true;
         }
     }
     return hash;
+
 }
     bool isIsomorphic(string s, string t) {
         vector<char>hash=createmapping(s,t);
