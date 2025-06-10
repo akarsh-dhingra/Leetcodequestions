@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0812-rotate-string) |
 | [0926-find-and-replace-pattern](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0953-reverse-only-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0678-valid-parenthesis-string) |
 | [0937-online-stock-span](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2032-largest-odd-number-in-string) |
