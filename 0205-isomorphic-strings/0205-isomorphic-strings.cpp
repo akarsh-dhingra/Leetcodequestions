@@ -1,21 +1,23 @@
 class Solution {
 public:
+vector<char> createmapping(string&s,string&t){
+    vector<bool>seen(256,false);
+    vector<char>hash(256,0);
+    for(int i=0;i<s.size();i++){
+        if(!seen[t[i]]&&hash[s[i]]==0){
+            hash[s[i]]=t[i];
+            seen[t[i]]=true;
+        }
+    }
+    return hash;
+}
     bool isIsomorphic(string s, string t) {
-       vector<bool>tseen(256,0);
-
-       vector<int>hash(256,0);
-
-       for(int i=0;i<s.size();i++){
-       if(hash[s[i]]==0&&!tseen[t[i]]){
-       hash[s[i]]=t[i];
-       tseen[t[i]]=true;
-       }   
-       }
-       string ans="";
-       for(int i=0;i<s.size();i++){
-ans.push_back(hash[s[i]]);
-       }
-       if(ans==t) return true;
-       else return false;
+        vector<char>hash=createmapping(s,t);
+        string res="";
+        for(int i=0;i<s.size();i++){
+            res+=hash[s[i]];
+        }
+        if(res==t) return true;
+        else return false;
     }
 };
