@@ -1,34 +1,31 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        // if there a n no. of elements given in  a vector
-        // how to perform comparison one wth others
-        string ans="";
-        int i=0; //used for iterating through each string.
-        int n=strs.size();
-        while(true){
-            char curr_ch=0;
-            for(auto str:strs){
-                // if length exceeded yahi fasenge
-                if(i>=str.size()){
-                    curr_ch=0; // this lines means aage aur kuch nahi hai 
-                    break;
-                }
-                // if curr_ch==0
-                if(curr_ch==0){
-                    curr_ch=str[i];
-                }
-                else if(str[i]!=curr_ch){
-                    curr_ch=0;
-                    break;
-                }
-            }
-            if(curr_ch==0){
-                break;
-            }
-            ans.push_back(curr_ch);
-            i++;
-        }
-        return ans;
+     // sbse pehle curr_ch i.e joh compare krna hai voh =0 
+     string ans="";
+     int indx=0; // indx will help in iterating
+// jab bhi nah pta ho ki kya kha break kaise ak inf loop
+ while(true){
+char curr_ch=0;
+for(auto str:strs){
+    if(indx>=str.length()){
+        curr_ch=0;
+        break;
+    }
+    if(curr_ch==0){
+        curr_ch=str[indx];
+    }
+    else if(curr_ch!=str[indx]){
+        curr_ch=0; // kyunki unequal aaya hai toh definitely yeh answer ka part nahi hoga
+        break;
+    }
+}
+if(curr_ch==0){
+    break;
+}
+    ans.push_back(curr_ch);
+    indx++;
+     }
+return ans;
     }
 };
