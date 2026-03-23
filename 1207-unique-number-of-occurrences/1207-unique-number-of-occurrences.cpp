@@ -7,9 +7,12 @@ public:
             mpp[it]++;
         }
         for(auto it=mpp.begin();it!=mpp.end();it++){
-            st.insert(it->second);
+            int freq=it->second;
+            if(st.find(freq)!=st.end()){
+                return false;
+            }          
+            st.insert(freq);
         }
-        if(mpp.size()!=st.size()) return false;
         return true;
     }
 };
