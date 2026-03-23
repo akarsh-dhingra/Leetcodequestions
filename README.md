@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1207-unique-number-of-occurrences](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
