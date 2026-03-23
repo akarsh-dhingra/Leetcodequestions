@@ -14,17 +14,19 @@ public:
             ans[1].push_back(it->first);
         }
     }
+    // for(int i=0;i<matches.size();i++){
+    //     if(mpp.find(matches[i][0])==mpp.end()){
+    //         mpp[matches[i][0]]=0;
+    //     }
+
+    // }
     for(int i=0;i<matches.size();i++){
         if(mpp.find(matches[i][0])==mpp.end()){
-            mpp[matches[i][0]]=0;
-        }
-
-    }
-    for(auto it=mpp.begin();it!=mpp.end();it++){
-        if(it->second==0){
-            ans[0].push_back(it->first);
+            ans[0].push_back(matches[i][0]);
+            mpp[matches[i][0]]=2;
         }
     }
+    sort(ans[0].begin(),ans[0].end());
     return ans;
 
     }
