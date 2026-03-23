@@ -1,18 +1,15 @@
 class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {
-        map<int,int>mpp;
-        set<int>st;
-        for(auto it:arr){
-            mpp[it]++;
+        vector<int>vec(2001,0);
+        for(int i=0;i<arr.size();i++){
+            vec[arr[i]+1000]+=1;
         }
-        for(auto it=mpp.begin();it!=mpp.end();it++){
-            int freq=it->second;
-            if(st.find(freq)!=st.end()){
+    for(int i=1;i<=2000;i++){
+            if(vec[i]!=0&&vec[i]==vec[i-1]){
                 return false;
-            }          
-            st.insert(freq);
-        }
-        return true;
+            }
+    }
+    return true;
     }
 };
