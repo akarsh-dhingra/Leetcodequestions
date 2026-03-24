@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0338-counting-bits/) | Easy |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0338-counting-bits/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0518-coin-change-ii) |
