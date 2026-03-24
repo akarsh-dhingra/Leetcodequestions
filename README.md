@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2227-sum-of-subarray-ranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2227-sum-of-subarray-ranges) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0338-counting-bits/) | Easy |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
