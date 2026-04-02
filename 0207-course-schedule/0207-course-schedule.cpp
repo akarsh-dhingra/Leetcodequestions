@@ -14,37 +14,38 @@ public:
             adj[u].push_back(v);
         }
         // Let's apply kahn's algo with BFS / topologicalSort with DFS 
-    // Now we will take a queue 
-    queue<int>que;
-    // We will create an indegree array
-    vector<int>indegree(V,0);
-    
-    for(int i=0;i<V;i++){
-        for(int &v:adj[i]){
-            indegree[v]++;
+        queue<int>que;
+
+        // prepare a vector of indegree
+        vector<int>indegree(V,0);
+
+        for(int i=0;i<V;i++){
+            for(int &v:adj[i]){
+                    indegree[v]++;
+            }
         }
-    }
-    // Now pushing in the onew where indegree[i]=0
-    
-    for(int i=0;i<V;i++){
-        if(indegree[i]==0) que.push(i);
-    }
-    int cnt=0;
-    vector<int>result;
-    
-    while(!que.empty()){
-        int u=que.front();
-        cnt++;
-        que.pop();
-        result.push_back(u);
-        
-        for(int &v:adj[u]){
-            indegree[v]--;
-            
-            if(indegree[v]==0) que.push(v);
+
+        for(int i=0;i<V;i++){
+            if(indegree[i]==0){
+                que.push(i);
+            }
         }
-        
-    }
+int cnt=0;
+        while(!que.empty()){
+            int u=que.front();
+            que.pop();
+            cnt++;
+
+            for(int &v:adj[u]){
+                indegree[v]--;
+
+                if(indegree[v]==0){
+                    que.push(v);
+                } 
+            }
+
+        }
+        // cnt==v -> means topo sort yes and acyclic also yes 
     return cnt==V?true:false; 
     // If false that means topo sort nahi lg skta that means it's cyclice 
     // yahi check krna tha 
