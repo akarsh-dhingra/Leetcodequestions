@@ -1,17 +1,22 @@
 class Solution {
 public:
     bool DFS(vector<int>&color,vector<vector<int>>&adj,int curr, int currColor){
+        queue<int>que;
+        que.push(curr);
         color[curr]=currColor;
 
-        for(int &v:adj[curr]){
-            if(color[v]==color[curr]){
-                return false;
-            }
-            if(color[v]==-1) {
-                int colorofV=1-currColor;
-                if(DFS(color,adj,v,colorofV)==false) return false;
-            }
+        while(!que.empty()){
+            int u=que.front();
+            que.pop();
             
+            for(int &v:adj[u]){
+                if(color[v]==color[u]) return false;
+
+               else if(color[v]==-1){
+                    color[v]=1-color[u];
+                    que.push(v);
+                }
+            }
         }
         return true;
     }
