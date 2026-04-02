@@ -45,7 +45,9 @@ public:
         }
         
     }
-    return cnt==V;
+    return cnt==V?true:false; 
+    // If false that means topo sort nahi lg skta that means it's cyclice 
+    // yahi check krna tha 
 
     }
 };
