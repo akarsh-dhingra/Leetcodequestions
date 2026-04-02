@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0547-number-of-provinces/) | Medium |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0547-number-of-provinces/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -556,4 +558,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
