@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0217-contains-duplicate) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0322-coin-change) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0200-number-of-islands/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
