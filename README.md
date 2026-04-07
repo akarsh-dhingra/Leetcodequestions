@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0966-binary-subarrays-with-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [0994-rotting-oranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0994-rotting-oranges/) | Medium |
 | [1034-subarrays-with-k-different-integers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0994-rotting-oranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0994-rotting-oranges/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0994-rotting-oranges/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
