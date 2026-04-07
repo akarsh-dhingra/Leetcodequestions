@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1646-kth-missing-positive-number) |
+| [1765-map-of-highest-peak](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2227-sum-of-subarray-ranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2227-sum-of-subarray-ranges) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0994-rotting-oranges/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0994-rotting-oranges/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1765-map-of-highest-peak/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
