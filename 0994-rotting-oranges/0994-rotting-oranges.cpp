@@ -23,8 +23,8 @@ public:
 
         // Now move forward
         int tMax=0;
-        int deltaRow[]={0,-1,0,1};
-        int deltaCol[]={-1,0,1,0};
+        int deltaRow[]={-1,0,1,0};
+         int deltaCol[]={0,1,0,-1};
 
         while(!que.empty()){
             int r=que.front().first.first;
@@ -37,7 +37,7 @@ public:
                 int nRow=r+deltaRow[i];
                 int nCol=c+deltaCol[i];
 
-                if(nRow>=0&& nCol>=0&& nRow<n && nCol<m&& vis[nRow][nCol]!=2&&grid[nRow][nCol]==1){
+if(nRow>=0&& nCol>=0&& nRow<n && nCol<m&& vis[nRow][nCol]!=2&&grid[nRow][nCol]==1){
                     vis[nRow][nCol]=2;
                     que.push({{nRow,nCol},t+1});
                 }
