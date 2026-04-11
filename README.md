@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1646-kth-missing-positive-number) |
 | [1765-map-of-highest-peak](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2097-valid-arrangement-of-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2227-sum-of-subarray-ranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2227-sum-of-subarray-ranges) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [2097-valid-arrangement-of-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -599,9 +601,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [2097-valid-arrangement-of-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0210-course-schedule-ii/) | Medium |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 <!---LeetCode Topics End-->
