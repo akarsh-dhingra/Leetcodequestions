@@ -8,7 +8,7 @@ public:
 
         if(m==0 || n==0 ||grid[0][0]!=0) return -1;
         auto isSafe=[&](int x,int y){
-            return x>=0 && x<n && y>0 && y<m;
+            return x>=0 && x<n && y>=0 && y<m;
         };
 
         vector<vector<int>>result(m,vector<int>(n,INT_MAX));
