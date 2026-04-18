@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1646-kth-missing-positive-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1646-kth-missing-positive-number) |
 | [1765-map-of-highest-peak](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1646-kth-missing-positive-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Recursion
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2097-valid-arrangement-of-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-reorganize-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0948-sort-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -556,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1765-map-of-highest-peak/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -598,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
