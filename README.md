@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0943-sum-of-subarray-minimums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0943-sum-of-subarray-minimums) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-reorganize-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0778-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0948-sort-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0948-sort-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2097-valid-arrangement-of-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
@@ -629,4 +634,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
