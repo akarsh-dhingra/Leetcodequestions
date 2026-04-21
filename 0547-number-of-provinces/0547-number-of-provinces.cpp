@@ -59,7 +59,7 @@ public:
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 if(isConnected[i][j]==1){
-                    ds.unionBySize(i,j);
+                    ds.unionByRank(i,j);
                 }
             }
         }
