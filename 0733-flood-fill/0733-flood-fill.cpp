@@ -1,24 +1,30 @@
 class Solution {
 public:
-    void dfss(vector<vector<int>>&ans,vector<vector<int>>&image,int sr,int sc,int color,int iniColor){
-        ans[sr][sc]=color;
-        int delRow[] = {-1, 0, 1, 0};
-        int delCol[] = {0, 1, 0, -1};
-        int n=ans.size();
-        int m=ans[0].size();
-        for(int i=0;i<4;i++){
-            int nRow=sr+delRow[i];
-            int nCol=sc+delCol[i];
+vector<int>delRow={-1,0,1,0};
+vector<int>delCol={0,1,0,-1};
+void DFS(vector<vector<int>>& image,int oldColor,int color,int sr, int sc,vector<vector<int>>&ans,int n,int m){
+    ans[sr][sc]=color;
 
-            if(nRow>=0 && nRow<n && nCol>=0 && nCol<m&& image[nRow][nCol]==iniColor&& ans[nRow][nCol]!=color){
-                    dfss(ans,image,nRow,nCol,color,iniColor);
-            }
+    for(int i=0;i<4;i++){
+        int newRow=sr+delRow[i];
+        int newCol=sc+delCol[i];
+
+        if(newRow>=0 && newRow<n && newCol>=0 && newCol<m && 
+            image[newRow][newCol]==oldColor && 
+            ans[newRow][newCol]!=color
+         ){
+            ans[newRow][newCol]=color;
+            DFS(image,oldColor,color,newRow,newCol,ans,n,m);
         }
     }
+}
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int iniColor=image[sr][sc];
+        int oldColor=image[sr][sc];
+        if(oldColor==color) return image;
         vector<vector<int>>ans=image;
-        dfss(ans,image,sr,sc,color,iniColor);
+        int n=image.size();
+        int m=image[0].size();
+        DFS(image,oldColor,color,sr,sc,ans,n,m);
         return ans;
     }
 };
