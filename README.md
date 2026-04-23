@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0966-binary-subarrays-with-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0994-rotting-oranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1034-subarrays-with-k-different-integers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1020-number-of-enclaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1020-number-of-enclaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
