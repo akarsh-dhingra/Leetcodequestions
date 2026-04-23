@@ -35,13 +35,34 @@ public:
             }
         }
     }
+    
+    void BFS(Node*node){
+        queue<Node*>que;
+        que.push(node);
+
+        while(!que.empty()){
+            Node*init=que.front();
+            Node*cloneNode=mpp[init];
+            que.pop();
+            for(auto it:init->neighbors){
+                if(mpp.find(it)==mpp.end()){
+                    Node*cloned=new Node(it->val);
+                    mpp[it]=cloned;
+                    que.push(it);
+                    cloneNode->neighbors.push_back(cloned);
+                }
+                else{
+                    cloneNode->neighbors.push_back(mpp[it]);
+                }
+            }
+        }
+    }
 
     Node* cloneGraph(Node* node) {  
         if(node==NULL) return node;
-        Node* clone_node=new Node(node->val);
-        
+        Node*clone_node=new Node(node->val);
         mpp[node]=clone_node;
-        DFS(node,clone_node);
+        BFS(node);
         return clone_node;
     }
 };
