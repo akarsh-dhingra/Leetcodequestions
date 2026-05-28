@@ -13,17 +13,17 @@ public:
         int r=s.length()-1;
 
         while(l<r){
-            if(checkVowel(s[l])&&checkVowel(s[r])){
+            bool left =checkVowel(s[l]);
+            bool right=checkVowel(s[r]);
+            if(left&&right){
                 swap(s[l],s[r]);
                 l++;
                 r--;
             }
-        else if(checkVowel(s[l])==true &&checkVowel(s[r])==false) r--;
-        else if(checkVowel(s[r])==true &&checkVowel(s[l])==false) l++;
-        else{
-            l++;
-            r--;
-        }
+            else if (!right){
+                r--;
+            }      
+            else l++;
         }
         return s;
     }
