@@ -10,7 +10,7 @@ public:
         // check vowels and reverse them where they 
         // are present
         int l=0;
-        int r=s.size()-1;
+        int r=s.length()-1;
 
         while(l<r){
             if(checkVowel(s[l])&&checkVowel(s[r])){
@@ -18,10 +18,12 @@ public:
                 l++;
                 r--;
             }
-            else if(!checkVowel(s[l])) l++;
-            else{
-                r--;
-            }
+        else if(checkVowel(s[l])==true &&checkVowel(s[r])==false) r--;
+        else if(checkVowel(s[r])==true &&checkVowel(s[l])==false) l++;
+        else{
+            l++;
+            r--;
+        }
         }
         return s;
     }
