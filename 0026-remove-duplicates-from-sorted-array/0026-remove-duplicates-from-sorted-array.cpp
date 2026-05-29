@@ -1,18 +1,19 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-    //   Let's create a temp of size n=nums.size()
-    //   Now I"ll keep pushing all the unique
-    //   values inside the nums array
-    int i=0;
-    int j=1;
-    while(j<nums.size()){
-        if(nums[i]!=nums[j]){
-            i++;
-            nums[i]=nums[j];
+        // We have to return number of unique elements
+        // 'k' after deleting all duplicates
+        int l=0;
+        int r=1;
+        int n=nums.size();
+        while(r<n){
+            if(nums[l]!=nums[r]){
+                l++;
+                nums[l]=nums[r];
+            }
+            r++;
+
         }
-        j++;
-    }
-    return i+1;
+        return l+1;
     }
 };
