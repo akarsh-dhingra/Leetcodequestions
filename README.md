@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2227-sum-of-subarray-ranges) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2032-largest-odd-number-in-string) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
