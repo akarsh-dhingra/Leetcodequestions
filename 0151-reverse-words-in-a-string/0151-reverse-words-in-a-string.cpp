@@ -1,23 +1,23 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        int l=0;
-        int r=0;
-        int i=0;
-int n=s.size();
+        // the sky is blue
+        // blue is sky the 
+        // eulb si yks eht
+
         reverse(s.begin(),s.end());
-        while(i<n){
-            while(i<n&& s[i]!=' '){
-                s[r++]=s[i++];
-            }
-            if(l<r){
-                reverse(s.begin()+l,s.begin()+r);
-                s[r]=' ';
-                r++;
-                l=r;
-            }
-        i++;
+        string ans="";
+        int n=s.length();
+        for(int i=0;i<s.length();i++){
+            // We will extract individual words
+              string word="";
+              while(i<n && s[i]!=' '){
+                    word+=s[i];
+                    i++;
+              }
+              reverse(word.begin(),word.end());
+              if(word.length()>0) ans+=" "+word;
         }
-        return s.substr(0,r-1);
+        return ans.substr(1);
     }   
 };
