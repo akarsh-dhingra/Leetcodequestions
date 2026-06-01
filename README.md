@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0542-01-matrix/) | Medium |
