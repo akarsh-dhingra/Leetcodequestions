@@ -1,41 +1,40 @@
 class Solution {
 public:
-    bool allZeros(vector<int>&counter){
-        for(int i:counter){
-            if(i!=0) return false;
-        }
-        return true;
+bool checkZeros(vector<int>&hash){
+    for(int x:hash){
+        if(x!=0) return false;
     }
-    vector<int> findAnagrams(string s, string p) {
-        // Naive approach create all anagrams of p 
-        // find s.substr(p) in s you will get initial indexes if they exist else -1 put it in the arr.
-        vector<int>result;
-        int n=s.size();
-        vector<int>counter(26,0);
+    return true;
+}
+   vector<int> findAnagrams(string s, string p) {
+     int n=s.size();
+     int k=p.size();
 
-        for(int i=0;i<p.length();i++){
-            char ch=p[i];
-            counter[ch-'a']++;
-        }
+    // I know that if two strings are there which are anagrams of each other
+    // then obviously their length will be same and their frequency of 
+    // occurence will also be the same
 
-        int k=p.length();
-
-        int ans=0;
-        int i=0;
-        int j=0;
-        while(j<n){
-            counter[s[j]-'a']--;
-            
-            if(j-i+1==k){
-                if(allZeros(counter)){
-                    ans++;
-                    result.push_back(i);
-                }
-                counter[s[i]-'a']++;
-                i++;
+    // In order to track frequncy I can use a hasharray
+    vector<int>hash(26,0);
+    for(int i=0;i<k;i++){
+        hash[p[i]-'a']++;
+    }
+    int i=0;
+    int j=0;
+    vector<int>result;
+    while(j<n){
+        hash[s[j]-'a']--;
+        
+        if(j-i+1==k){
+            if(checkZeros(hash)){
+                result.push_back(i);
             }
-            j++;
+            hash[s[i]-'a']++;
+            i++;
         }
-        return result;
+        j++;
     }
+    return result;
+   }
 };
+
