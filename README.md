@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
