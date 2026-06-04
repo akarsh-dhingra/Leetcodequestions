@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2032-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2032-largest-odd-number-in-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0943-sum-of-subarray-minimums) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0204-count-primes/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
