@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0509-fibonacci-number/) | Easy |
 | [0539-minimum-time-difference](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0338-counting-bits/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0494-target-sum) |
+| [0509-fibonacci-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0647-palindromic-substrings) |
@@ -736,4 +739,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
