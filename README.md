@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0242-valid-anagram) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0242-valid-anagram) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0778-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0948-sort-an-array) |
