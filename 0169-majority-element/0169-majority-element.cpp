@@ -15,16 +15,28 @@ public:
 // 
        int cnt=0;
        int n=nums.size();
-        unordered_map<int,int>mpp;
-       for(auto it:nums){
-            mpp[it]++;
-       }
-        int ans=0;
-       for(auto it:mpp){
-        if(it.second>n/2){
-        ans= it.first;
+       int el;
+        for(int i=0;i<n;i++){
+            
+            if(cnt==0) {
+                el=nums[i];
+                cnt++;
+            }
+            else if(el==nums[i]){
+                cnt++;
+            }
+            else {
+                cnt--;
+            }
         }
-       }
-       return ans;
+
+        int occ=0;
+        for(int i=0;i<n;i++){
+            if(el==nums[i]) occ++;
+        }
+        int ans=0;
+        if(occ>n/2 && cnt>0) ans= el;
+        return ans;
+
         }
     };
