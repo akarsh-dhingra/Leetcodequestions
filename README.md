@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0424-longest-repeating-character-replacement) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0451-sort-characters-by-frequency) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0778-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
