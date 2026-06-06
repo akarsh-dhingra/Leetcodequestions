@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0062-unique-paths/) | Medium |
 | [0204-count-primes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0509-fibonacci-number/) | Easy |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0062-unique-paths/) | Medium |
 | [0118-pascals-triangle](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0322-coin-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0322-coin-change) |
@@ -767,4 +769,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0493-reverse-pairs/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
