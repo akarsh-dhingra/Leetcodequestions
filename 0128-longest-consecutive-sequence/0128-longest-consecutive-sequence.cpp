@@ -9,13 +9,13 @@ public:
       int cnt=0;
       sort(nums.begin(),nums.end());
         for(int i=0;i<n;i++){
-            if(lastSmaller==nums[i])continue;
-            if(nums[i]-1!=lastSmaller){
-                cnt=1;
+
+            if(nums[i]-1==lastSmaller){
+                cnt+=1;
                 lastSmaller=nums[i];
             }
-            else if(nums[i]-1==lastSmaller){
-                cnt+=1;
+            else if(lastSmaller!=nums[i]){
+                cnt=1;
                 lastSmaller=nums[i];
             }
             longest=max(longest,cnt);
