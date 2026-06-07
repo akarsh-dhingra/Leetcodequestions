@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2126-destroying-asteroids](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2227-sum-of-subarray-ranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2227-sum-of-subarray-ranges) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2406-decode-the-message](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2406-decode-the-message) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
