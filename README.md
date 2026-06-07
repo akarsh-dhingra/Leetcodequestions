@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0075-sort-colors/) | Medium |
