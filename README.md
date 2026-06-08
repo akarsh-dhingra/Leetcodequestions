@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0953-reverse-only-letters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2126-destroying-asteroids](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2227-sum-of-subarray-ranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2227-sum-of-subarray-ranges) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
