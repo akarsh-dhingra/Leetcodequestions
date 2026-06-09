@@ -8,11 +8,7 @@ public:
         int maxi=*max_element(nums.begin(),nums.end());
         int mini=*min_element(nums.begin(),nums.end());
 
-        while(k!=0){
-            value+=(maxi-mini);
-            k--;
-        }
-        return value;
+        return 1LL*k*(maxi-mini);
        
     }
 };
