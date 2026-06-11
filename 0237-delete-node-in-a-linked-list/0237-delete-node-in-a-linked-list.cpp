@@ -9,9 +9,7 @@
 class Solution {
 public:
     void deleteNode(ListNode* node) {
-        // Head ka access nahi hai mere paas
-        node->val=node->next->val;
-
-        node->next=node->next->next;   
+     node->val=node->next->val;
+     node->next=node->next->next;
     }
 };
