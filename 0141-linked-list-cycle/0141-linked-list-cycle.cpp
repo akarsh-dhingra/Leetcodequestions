@@ -9,18 +9,15 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-         // hashing
-        unordered_map<ListNode*,bool>mapping;
-        ListNode*temp=head;
-        while(temp){
-            if(mapping.find(temp)!=mapping.end()){
+        unordered_map<ListNode*,int>mpp;
+        ListNode *temp=head;
+        while(temp!=NULL){
+            mpp[temp]++;
+            if(mpp[temp]==2){
                 return true;
-            }
-            else{
-                mapping[temp]=true;
             }
             temp=temp->next;
         }
-         return false;
+        return false;
     }
 };
