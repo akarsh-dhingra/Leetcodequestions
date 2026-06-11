@@ -10,49 +10,52 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
+ ListNode *getKthNode(ListNode *head,int k){
         ListNode*temp=head;
+        k-=1;
+        while(temp!=NULL && k>0){
+            k--;
+            temp=temp->next;
+        }
+        return temp;
+    }
+    ListNode *reverse(ListNode*head){
         ListNode*prev=NULL;
-        while(temp!=NULL){
-           ListNode*front=temp->next;
-            temp->next=prev;
-            prev=temp;
-            temp=front;
+        ListNode*curr=head;
+        while(curr!=NULL){
+            ListNode*nextNode=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=nextNode;
         }
         return prev;
     }
-    ListNode* kthnode(ListNode* head, int k){
-        ListNode* temp=head;
-       k-=1;
-    while(temp!=NULL&&k>0){
-        temp=temp->next;
-        k--;
-    }
-    return temp;
-    }
-ListNode* reverseKGroup(ListNode* head, int k) {
-ListNode*temp=head;
-ListNode*prevlast=NULL;
-while(temp!=NULL){
-    ListNode*kthLastNode=kthnode(temp,k);// this will return the kth node of every k group of elements
-    if(kthLastNode==NULL){
-        if(prevlast){
-            prevlast->next=temp;
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        ListNode *temp=head;
+        ListNode*prevNode=NULL;
+
+        while(temp!=NULL){
+            ListNode*kthNode=getKthNode(temp,k);
+            // we've to separate that k group 
+            // from the entire linked list 
+            if(kthNode==NULL){
+                if(prevNode) prevNode->next=temp;
+                break;
+            }
+            ListNode*nextNode=kthNode->next;
+            kthNode->next=NULL;
+            ListNode*newHead=reverse(temp);
+            if(temp==head){
+                    head = newHead;
+            }
+            else{
+                prevNode->next = newHead;
+
+            }
+            prevNode=temp;
+            temp=nextNode;
         }
-        break;
-    }
-    ListNode*nextNode=kthLastNode->next; // have to remember the nextnode because this will help later to join.
-    kthLastNode->next=NULL;
-    reverseList(temp);
-    if(temp==head){
-        head=kthLastNode;
-    }
-    else{
-        prevlast->next=kthLastNode;
-    }
-    prevlast=temp;
-    temp=nextNode;
-}
-return head;
+        return head;
+
     }
 };
