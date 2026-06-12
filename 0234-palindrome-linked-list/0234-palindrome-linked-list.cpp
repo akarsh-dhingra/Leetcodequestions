@@ -19,11 +19,11 @@ public:
         }
         temp=head;
         while(temp!=NULL){
-            if(temp->val!=st.top()){
+            if(st.top()!=temp->val){
                 return false;
             }
-            temp=temp->next;
             st.pop();
+            temp=temp->next;
         }
         return true;
     }
