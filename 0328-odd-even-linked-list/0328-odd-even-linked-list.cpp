@@ -11,47 +11,29 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        // if(head==NULL || head->next==NULL){
-        //     return head;
-        // }
-        // vector<int>v={};
-        // ListNode*temp=head;
-        // while(temp!=NULL&&temp->next!=NULL){
-        //     v.push_back(temp->val);
-        //     temp=temp->next->next;
-        // }
-        // if(temp){
-        //     v.push_back(temp->val);
-        // }
-        // temp=head->next;
-        // while(temp!=NULL&&temp->next!=NULL){
-        //    v.push_back(temp->val);
-        //    temp=temp->next->next;
-        // }
-        // if(temp){
-        //     v.push_back(temp->val);
-        // }
-        // temp=head;
-        // int i=0;
-        // while(temp){
-        //     temp->val=v[i];
-        //     temp=temp->next;
-        //     i++;
-        // }
-        // return head;
-        if (head==NULL|| head->next==NULL){
-            return head;
+        if(head==NULL || head->next==NULL) return head;
+        vector<int>arr;
+        ListNode*temp=head;
+        while(temp!=NULL && temp->next!=NULL){
+            arr.push_back(temp->val);
+            temp=temp->next->next;
         }
-        ListNode*odd=head;
-        ListNode*even=head->next;
-        ListNode*evenhead=head->next;
-        while(even!=NULL&&even->next!=NULL){
-            odd->next=even->next;
-            odd=odd->next;
-            even->next=odd->next;
-            even=even->next;
+        if(temp)arr.push_back(temp->val);
+        temp=head->next;
+        while(temp!=NULL && temp->next!=NULL){
+            arr.push_back(temp->val);
+            temp=temp->next->next;
         }
-        odd->next=evenhead;
+        if(temp) arr.push_back(temp->val);
+
+        temp=head;
+        int i=0;
+        int n=arr.size();
+        while(temp!=NULL){
+            temp->val=arr[i];
+            i++;
+            temp=temp->next;
+        }
         return head;
     }
 };
