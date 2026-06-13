@@ -20,7 +20,7 @@ public:
         Node *temp=head;
         unordered_map<Node*,Node*>mpp;
         while(temp!=NULL){
-            Node*newNode=new Node(temp->val);
+            Node *newNode=new Node(temp->val);
             mpp[temp]=newNode;
             temp=temp->next;
         }
