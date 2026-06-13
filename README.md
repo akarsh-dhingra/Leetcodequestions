@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2032-largest-odd-number-in-string) |
 | [2406-decode-the-message](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3838-weighted-word-mapping](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
