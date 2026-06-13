@@ -7,34 +7,35 @@
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
+
+ We are given the numbers but all the numbers 
+ are stored in the reverse order!!
+
  */
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode*t1=l1;
-        ListNode*t2=l2;
-        ListNode*dummynode=new ListNode(-1);
-        ListNode*curr=dummynode;
-        int carry=0;
-        while(t1!=NULL||t2!=NULL){
-            int sum=carry;
-            if(t1){
-                sum=sum+t1->val;
-            }
-            if(t2){
-                sum=sum+t2->val;
-            }
-            ListNode*newNode=new ListNode(sum%10);
-            carry=sum/10;
-            curr->next=newNode;
-            curr=curr->next;
-          if(t1) t1=t1->next;
-          if(t2) t2=t2->next;
-        }
-        if(carry==1){
-            ListNode*newnode=new ListNode(carry);
-            curr->next=newnode;
-        }
-        return dummynode->next;
+          ListNode*t1=l1;
+          ListNode *t2=l2;
+          ListNode *dummy=new ListNode(-1);
+          ListNode *curr=dummy;
+          int carry=0;
+          while(t1!=NULL || t2!=NULL){
+                int sum=carry;
+
+                if(t1) sum+=t1->val;
+                if(t2) sum+=t2->val;
+
+                ListNode *nava=new ListNode(sum%10);
+                curr->next=nava;
+                curr=curr->next;
+                carry=sum/10;
+            if(t1) t1=t1->next;
+            if(t2) t2=t2->next;
+          }
+          if(carry!=0){
+            curr->next=new ListNode(carry);
+          }
+          return dummy->next;
     }
 };
