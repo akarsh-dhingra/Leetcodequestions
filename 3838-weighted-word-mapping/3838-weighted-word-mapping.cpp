@@ -26,8 +26,7 @@ public:
                 totalW+=weights[a];
             }
             int val=totalW%26;
-            char character = static_cast<char>('z'-val);
-            ans+=character;
+            ans += ('z' - val);
         }
         return ans;
     }
