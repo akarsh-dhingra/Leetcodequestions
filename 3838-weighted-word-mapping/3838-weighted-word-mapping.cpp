@@ -17,12 +17,6 @@ r s t u v w x y z
 class Solution {
 public:
     string mapWordWeights(vector<string>& words, vector<int>& weights) {
-        unordered_map<int,char>mapping;
-        char ch='a';
-        for(int i=25;i>=0;i--){
-            mapping[i]=ch;
-            ch++;
-        }
         string ans="";
         for(string s:words){
             string x=s;
@@ -31,7 +25,9 @@ public:
                 int a=x[i]-'a';
                 totalW+=weights[a];
             }
-        ans+=mapping[totalW%26];
+            int val=totalW%26;
+            char character = static_cast<char>('z'-val);
+            ans+=character;
         }
         return ans;
     }
