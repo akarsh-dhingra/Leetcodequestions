@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0496-next-greater-element-i) |
