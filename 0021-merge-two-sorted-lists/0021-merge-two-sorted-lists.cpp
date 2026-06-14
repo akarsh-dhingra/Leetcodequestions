@@ -10,36 +10,50 @@
  */
 class Solution {
 public:
-    ListNode* convertArrToLL(vector<int>&arr){
-            if(arr.empty()) return NULL;
-
-        ListNode *head=new ListNode(arr[0]);
-        ListNode *temp=head;
-        for(int i=1;i<arr.size();i++){
-            ListNode*curr=new ListNode(arr[i]);
-            temp->next=curr;
-            temp=temp->next;
-        }
-        return head;
-    }
+    // ListNode* convertArrToLL(vector<int>&arr){
+    //     if(arr.empty()) return NULL;
+    //     ListNode *head=new ListNode(arr[0]);
+    //     ListNode *temp=head;
+    //     for(int i=1;i<arr.size();i++){
+    //         ListNode*curr=new ListNode(arr[i]);
+    //         temp->next=curr;
+    //         temp=temp->next;
+    //     }
+    //     return head;
+    // }
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        // Merge two sorted lists 
+        ListNode*dummy=new ListNode(-1);
+        ListNode*curr=dummy;
+        ListNode *t1=list1;
+        ListNode *t2=list2;
 
-        vector<int>arr;
-        ListNode *temp=list1;
-        while(temp!=NULL){
-            arr.push_back(temp->val);
-            temp=temp->next;
+        while(t1!=NULL && t2!=NULL){
+            if(t1->val<=t2->val){
+                ListNode*newNode=new ListNode(t1->val);
+                curr->next=newNode;
+                curr=curr->next;
+                t1=t1->next;
+            }
+            else {
+                ListNode*newNode=new ListNode(t2->val);
+                curr->next=newNode;
+                curr=curr->next;
+                t2=t2->next;
+            }
+            
         }
-
-        temp=list2;
-        while(temp!=NULL){
-            arr.push_back(temp->val);
-            temp=temp->next;
-        }        
-        sort(arr.begin(),arr.end());
-
-        ListNode *ans=convertArrToLL(arr);
-        return ans;
+        while(t1!=NULL){
+            ListNode*newNode=new ListNode(t1->val);
+                curr->next=newNode;
+                curr=curr->next;
+                 t1=t1->next;
+        }
+        while(t2!=NULL){
+                ListNode*newNode=new ListNode(t2->val);
+                curr->next=newNode;
+                curr=curr->next;
+                 t2=t2->next;
+        }
+        return dummy->next;
     }
 };
