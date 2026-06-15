@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0234-palindrome-linked-list) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0165-compare-version-numbers) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0217-contains-duplicate) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -728,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0148-sort-list/) | Medium |
 | [0493-reverse-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0493-reverse-pairs/) | Hard |
 | [0948-sort-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0948-sort-an-array) |
 ## Radix Sort
