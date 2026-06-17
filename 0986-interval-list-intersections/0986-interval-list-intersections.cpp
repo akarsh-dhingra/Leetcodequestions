@@ -6,22 +6,22 @@ public:
         int n=firstList.size();
         int m=secondList.size();
         vector<vector<int>>ans;
-        for(int i=0;i<n;i++){
-            int aStart=firstList[i][0];
-            int aEnd=firstList[i][1];
-            for(int j=0;j<m;j++){
-                int bStart=secondList[j][0];
-                int bEnd=secondList[j][1];
-                
+    int i=0;
+    int j=0;
+        while(i<n && j<m){
+            int start=max(firstList[i][0],secondList[j][0]);
+            int end=min(firstList[i][1],secondList[j][1]);
 
-                int start=max(aStart,bStart);
-                int end=min(aEnd,bEnd);
-                if(start<=end ){
-                    ans.push_back({start,end});
-                }
+            if(start<=end){
+                ans.push_back({start,end});
+            }
+            if(firstList[i][1]<secondList[j][1]){
+                i++;
+            }
+            else{
+                j++;
             }
         }
-        
         return ans;
     }
 };
