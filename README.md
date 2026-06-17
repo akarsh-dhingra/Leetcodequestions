@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0493-reverse-pairs/) | Hard |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0539-minimum-time-difference) |
 | [0721-accounts-merge](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0721-accounts-merge/) | Medium |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0680-valid-palindrome-ii) |
