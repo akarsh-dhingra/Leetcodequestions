@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/password-strength">3941. Password Strength</a></h2><h3>Medium</h3><hr><p>You are given a string <code>password</code>.</p>
+<h2><a href="https://leetcode.com/problems/password-strength">4313. Password Strength</a></h2><h3>Medium</h3><hr><p>You are given a string <code>password</code>.</p>
 
 <p>The <strong>strength</strong> of the password is calculated based on the following rules:</p>
 
