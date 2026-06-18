@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2406-decode-the-message](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2406-decode-the-message) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3941-password-strength](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3941-password-strength/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3941-password-strength](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3941-password-strength/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
