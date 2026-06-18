@@ -7,39 +7,19 @@ public:
         }
         return false;
     }
-    bool isSpecial(char ch){
-        string specialChars = "!@#$%^&*()_+-=[]{}|;':\",./<>?";
-        for(auto c:specialChars){
-            if(c==ch) return true;
-        }
-        return false;
-    }
     int passwordStrength(string password) {
         int ans=0;
-        unordered_map<char,int>mpp;
+        set<char>st;
+
         for(char ch:password){
+            st.insert(ch);
             
-            if(islower(ch)){
-                if(mpp.find(ch)==mpp.end()){
-                    ans+=1;
-                }
-            }
-            if(isupper(ch)){
-                if(mpp.find(ch)==mpp.end()){
-                    ans+=2;
-                }
-            }
-            if(isDigit(ch)){
-                 if(mpp.find(ch)==mpp.end()){
-                    ans+=3;
-                }
-            }
-            if(isSpecial(ch)){
-                if(mpp.find(ch)==mpp.end()){
-                    ans+=5;
-                }
-            }
-            mpp[ch]++;
+        }
+        for(auto it:st){
+            if(islower(it)) ans+=1;
+           else if(isupper(it)) ans+=2;
+           else if(isDigit(it)) ans+=3;
+           else ans+=5;
         }
         return ans;
     }
