@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0721-accounts-merge](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0733-flood-fill/) | Easy |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0792-binary-search](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0907-koko-eating-bananas) |
