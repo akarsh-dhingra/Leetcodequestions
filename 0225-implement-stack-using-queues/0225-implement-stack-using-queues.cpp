@@ -1,36 +1,36 @@
 class MyStack {
     private:
-    int topIndx;
-    int *arr;
-    int capacity;
+    queue<int>q1;
+    queue<int>q2;
 public:
-    MyStack(int size=1000) {
-        this->capacity=size;
-        this->topIndx=-1;
-        arr=new int[capacity];
+    MyStack() {
+      
     }
     
     void push(int x) {
-        if(topIndx>999){
-            cout<<"Stack Overflow";
-            return;
+        while(!q1.empty()){
+            q2.push(q1.front());
+            q1.pop();
         }
-        topIndx++;
-        arr[topIndx]=x;
+        q1.push(x);
+        while(!q2.empty()){
+            q1.push(q2.front());
+            q2.pop();
+        }
     }
     
     int pop() {
-        if(empty()) return -1;
-        return arr[topIndx--];
+        int popp=q1.front();
+        q1.pop();
+        return popp;
     }
     
     int top() {
-        return arr[topIndx];
+      return q1.front();
     }
     
     bool empty() {
-        if(topIndx==-1) return true;
-        else return false;
+        return q1.empty();
     }
 };
 
