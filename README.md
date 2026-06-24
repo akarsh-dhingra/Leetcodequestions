@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0567-permutation-in-string/) | Medium |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0451-sort-characters-by-frequency) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0937-online-stock-span) |
 | [2336-smallest-number-in-infinite-set](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Queue
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0937-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
@@ -748,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0451-sort-characters-by-frequency) |
