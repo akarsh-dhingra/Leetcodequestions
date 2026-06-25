@@ -27,6 +27,18 @@ public:
         }
         return dp[n-1];
     }
+    int solveUsingSpaceOpt(vector<int>&arr){
+        int n=arr.size();
+        if(n==1) return arr[0];
+        int prev1=arr[0];
+        int prev2=max(arr[0],arr[1]);
+        for(int i=2;i<arr.size();i++){
+            int curr=max(arr[i]+prev1,prev2);
+            prev1=prev2;
+            prev2=curr;
+        }
+        return prev2;
+    }
     int rob(vector<int>& nums) {
         int n=nums.size();
         int indx=0;
@@ -39,6 +51,6 @@ public:
         vector<int>first(nums.begin(),nums.end()-1);
         vector<int>second(nums.begin()+1,nums.end());
 
-        return max(solveUsingTab(first),solveUsingTab(second));
+        return max(solveUsingSpaceOpt(first),solveUsingSpaceOpt(second));
     }
 };
