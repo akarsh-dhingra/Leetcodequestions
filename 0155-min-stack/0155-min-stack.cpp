@@ -40,8 +40,7 @@ public:
             // mini=10
             mini=2*mini-x;
         }
-        if(st.empty())
-            mini = INT_MAX;   
+        
     }
     
     int top() {
