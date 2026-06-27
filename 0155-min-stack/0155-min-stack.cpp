@@ -1,45 +1,55 @@
 class MinStack {
-    
 public:
-vector<pair<int,int>>v;
-    MinStack() {
+    stack<long long> st;
+    long long mini;
 
+    MinStack() {}
+
+    void push(int value) {
+        if(st.empty()) {
+            mini = value;
+            st.push(value);
+        }
+        else if(value >= mini) {
+            st.push(value);
+        }
+        else {
+            st.push(2LL * value - mini);
+            mini = value;
+        }
     }
-    void push(int val) {
-   if(v.empty()){
-    // entering the element for the first time.
-    pair<int,int>p;
-    p.first=val;
-    p.second=val;
-    v.push_back(p);
-   }
-else{
-    pair<int,int>p2;
-p2.first=val;
-int puranamin=v.back().second;
-p2.second=min(puranamin,val);
-v.push_back(p2);
-        }
-        }
-    
+
     void pop() {
- v.pop_back();
-    }
-    int top() {
-        pair<int,int>rightmostpair=v.back();
-        return rightmostpair.first;
+        if(st.empty()) return;
 
+        long long x = st.top();
+        st.pop();
+
+        if(x < mini)
+            mini = 2 * mini - x;
+
+        if(st.empty())
+            mini = INT_MAX;   // optional
     }
+
+    int top() {
+        long long x = st.top();
+
+        if(x >= mini)
+            return x;
+
+        return mini;
+    }
+
     int getMin() {
-        pair<int,int>rightmostpair=v.back();
-        return rightmostpair.second;
+        return mini;
     }
 };
 
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack* obj = new MinStack();
- * obj->push(val);
+ * obj->push(value);
  * obj->pop();
  * int param_3 = obj->top();
  * int param_4 = obj->getMin();
