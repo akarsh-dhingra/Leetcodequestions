@@ -13,15 +13,14 @@ public:
         unordered_map<char,int>mpp;
         createMapping(mpp);
         int ans=0;
-        for(int i=0;i<s.length();i++){
-            if(mpp[s[i]]>=mpp[s[i+1]]){
-                ans+=mpp[s[i]];
+        for(int i=0;i<s.length() - 1;i++){
+            if(mpp[s[i]]<mpp[s[i+1]]){
+                ans-=mpp[s[i]];
             }
             else{
-                ans-=mpp[s[i]];
-
+                ans+=mpp[s[i]];
             }
         }
-        return ans;
+        return ans+=mpp[s.back()];
     }
 };
