@@ -6,20 +6,16 @@ public:
         string ans="";
         if(s==" ")return "";
         int n=s.length();
-        string temp="";
         for(int i=0;i<s.length();i++){
-            if(s[i]!=' '){
+            string temp="";
+            while(i<n && s[i]!=' '){
                 temp+=s[i];
+                i++;
             }
-           else if(temp.size()>0){
+                if(temp.size()>0){
                 reverse(temp.begin(),temp.end());
                 ans=ans+" "+temp;
-                temp="";
             }
-           }
-           if(temp!=""){
-            reverse(temp.begin(),temp.end());
-            ans=ans+" "+temp;
            }
         return ans.substr(1);
     }   
