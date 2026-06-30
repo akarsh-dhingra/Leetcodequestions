@@ -7,22 +7,18 @@ public:
         int n=s.length();
         
         for(int i=0;i<n;i++){
-            
+            vector<int>freq(26,0);
             for(int j=i;j<n;j++){
-                vector<int>freq(26,0);    
-                string x=s.substr(i,j-i+1);
-                for(char ch:x){
-                    freq[ch-'a']++;
-                }
                 int maxi=0;
                 int mini=INT_MAX;
-                for(int k=0;k<26;k++){
-                    if(freq[k]>0){
-                        maxi=max(maxi,freq[k]);
-                        mini=min(mini,freq[k]);
+                freq[s[j]-'a']++;
+                for(int i=0;i<26;i++){
+                    if(freq[i]>0){
+                        maxi=max(maxi,freq[i]);
+                        mini=min(mini,freq[i]);
                     }
                 }
-            sum+=(maxi-mini);
+                sum+=(maxi-mini);
             }
         }
         return sum;
