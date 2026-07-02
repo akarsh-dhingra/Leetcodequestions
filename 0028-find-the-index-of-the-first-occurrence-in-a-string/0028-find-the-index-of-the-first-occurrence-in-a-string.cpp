@@ -12,34 +12,50 @@ public:
         }
         return ans%MOD;
     }
+    vector<int>LPsS(string needle){
+        int m=needle.size();
+        vector<int>LPS(m+1,0);
+        LPS[0]=0;
+        int i=1;
+        int length=0;
+        while(i<m){
+            if(needle[i]==needle[length]){
+                length++;
+                LPS[i]=length;
+                i++;
+            }
+            else{
+                if(length!=0){
+                    length=LPS[length-1];
+                }
+                else{
+                    LPS[i]=0;
+                    i++;
+                }
+            }
+        }
+        return LPS;
+    }
     int strStr(string haystack, string needle) {
         ll n=haystack.size();
         ll m=needle.size();
-
+    vector<int>LPS=LPsS(needle);
         if(n<m) return -1;
+        int i=0;
+        int j=0;
 
-        ll radix=26;
-        ll MAX_WEIGHT=1;
-
-        for(ll i=1;i<=m;i++){
-            MAX_WEIGHT=(MAX_WEIGHT*radix)%MOD;
-            // (26)^m
-        }
-        
-        ll hashNeedle=hashValue(needle,radix,m);
-        ll hashhay=0;
-        for(ll i=0;i<=n-m;i++){
-            if(i==0){
-                hashhay=hashValue(haystack,radix,m);
+        while(i<n){
+            if(haystack[i]==needle[j]){
+                i++;
+                j++;
             }
-            else{
-        hashhay=((hashhay*radix)%MOD-((haystack[i-1]-'a')*MAX_WEIGHT)%MOD+(haystack[i+m-1]-'a')+MOD)%MOD;
+            if(j==m){
+                j=LPS[j-1];
+               return i-m; 
             }
-            if(hashNeedle==hashhay){
-                for(ll j=0;j<m;j++){
-                    if(needle[j]!=haystack[j+i]) break;
-                    if(j==m-1) return i;
-                }
+            else if(haystack[i]!=needle[j]){
+                if(j!=0) j=LPS[j-1];
+                else i++;
             }
         }
         return -1;
