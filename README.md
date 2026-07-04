@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0721-accounts-merge](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0733-flood-fill/) | Easy |
+| [0735-asteroid-collision](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0735-asteroid-collision/) | Medium |
 | [0792-binary-search](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0890-lemonade-change) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0735-asteroid-collision/) | Medium |
 | [0937-online-stock-span](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0735-asteroid-collision/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
