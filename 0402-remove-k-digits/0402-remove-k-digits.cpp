@@ -1,44 +1,33 @@
 class Solution {
 public:
     string removeKdigits(string num, int k) {
-        // if(num.empty()){
-        //     return "";
-        // }
-        stack<char>st;
-        for(int i=0;i<num.length();i++){
-            while((!st.empty()&&k>0)&&(st.top()-'0')>(num[i]-'0')){
-                st.pop();
+        stack<int>st;
+        if(k==num.size()) return "0";
+        for(auto it:num){
+            int x=it-'0';
+            while(!st.empty()&&st.top()>x&&k>0){
                 k--;
+                st.pop();
             }
-            st.push(num[i]);
-            
+            st.push(x);
         }
-        // EDGE CASES:
-        // AGR STRING HEE EMPTY HAI TOH:
-        // agr ab bhi k value non zero hai 
-        while(k>0){  
+        while(k>0){
             st.pop();
             k--;
         }
-        if(num.size()==k){
-            return "";
-        }
-        if(st.empty()){
-            return "0";
-        }
-        string res="";  // for putting the elements from stack 
-        // into the res.
+        string ans="";
         while(!st.empty()){
-            res+=st.top();
+            ans+=(st.top()+'0');
             st.pop();
         }
-        while(res.size()!=0 && res.back()=='0'){
-            res.pop_back();
+       
+        reverse(ans.begin(),ans.end());
+
+        int i=0;
+        while(i<ans.size() && ans[i]=='0'){
+            i++;
         }
-        reverse(res.begin(),res.end());
-        if(res.empty()){
-            return "0";
-        }
-        return res;
+        if(i==ans.size()) return "0";
+        return ans.substr(i);
     }
 };
