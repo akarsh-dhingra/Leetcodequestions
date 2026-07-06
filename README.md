@@ -933,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1148-article-views-i/) | Easy |
 | [1251-average-selling-price](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Sweep Line
