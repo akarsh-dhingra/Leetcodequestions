@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
