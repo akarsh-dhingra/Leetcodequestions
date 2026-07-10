@@ -938,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0197-rising-temperature](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0197-rising-temperature/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0620-not-boring-movies/) | Easy |
