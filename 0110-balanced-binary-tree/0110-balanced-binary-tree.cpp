@@ -11,22 +11,20 @@
  */
 class Solution {
 public:
-int heightTree(TreeNode* root){
-    if(root==NULL){
-        return 0;
+    int heightBt(TreeNode* root){
+        if(root==NULL) return 0;
+        int leftTree=heightBt(root->left);
+        int rightTree=heightBt(root->right);
+        return max(leftTree,rightTree)+1;   
     }
-    int leftTree=heightTree(root->left);
-    int rightTree=heightTree(root->right);
-    int ans=max(rightTree,leftTree)+1;
-    return ans;
-}
     bool isBalanced(TreeNode* root) {
-     if(root==NULL) return true;
-if(isBalanced(root->left)&&isBalanced(root->right)){
-    if(abs(heightTree(root->left)-heightTree(root->right))<=1){
-        return true;
-    }
-}
+        if(root==NULL) return true;
+
+        if(isBalanced(root->left)&&isBalanced(root->right)){
+            if(abs(heightBt(root->left)-heightBt(root->right))<=1){
+                return true;
+            }
+        }
         return false;
     }
 };
