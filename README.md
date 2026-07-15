@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2032-largest-odd-number-in-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## String
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0204-count-primes/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Ordered Set
 |  |
 | ------- |
