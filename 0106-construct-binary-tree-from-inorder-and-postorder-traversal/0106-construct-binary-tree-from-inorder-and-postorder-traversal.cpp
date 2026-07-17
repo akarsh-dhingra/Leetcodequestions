@@ -11,29 +11,28 @@
  */
 class Solution {
 public:
-TreeNode* constructbinarytreefrominorderandpostordertraversal(vector<int>& postorder, vector<int>& inorder,int inorderstart,int &postorderIndx,int inorderend,int size,unordered_map<int,int>&valuetoindexmap){
-if(postorderIndx<0||inorderstart>inorderend){
-    return NULL;
-}
-// Step 1:
-int element=postorder[postorderIndx];
-postorderIndx--;
-// Step 2:
-TreeNode*root=new TreeNode(element);
-int posn=valuetoindexmap[element];
-root->right=constructbinarytreefrominorderandpostordertraversal(postorder, inorder, posn+1, postorderIndx,inorderend,size,valuetoindexmap);
-root->left=constructbinarytreefrominorderandpostordertraversal(postorder, inorder, inorderstart, postorderIndx,posn-1,size,valuetoindexmap);
-return root;
-}
+    void createMapping(vector<int>& inorder,map<int,int>&nodetoIndex,int n){
+        for(int i=0;i<n;i++){
+            nodetoIndex[inorder[i]]=i;
+        }
+    }
+
+    TreeNode* createTree(vector<int>& inorder, vector<int>& postorder,map<int,int>&nodetoIndex,int &postOrderIndx,int start,int end,int n){
+        if(postOrderIndx<0||start>end) {
+            return NULL;
+        }
+        int curr=postorder[postOrderIndx--];
+        TreeNode *node=new TreeNode(curr);
+        int posn=nodetoIndex[curr];
+        node->right=createTree(inorder,postorder,nodetoIndex,postOrderIndx,posn+1,end,n);
+        node->left=createTree(inorder,postorder,nodetoIndex,postOrderIndx,start,posn-1,n);
+        return node;
+    }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-     int inorderstart=0;
-     int inorderend=inorder.size()-1;
-     int size=inorder.size();
-     int postorderIndx=size-1;
-     unordered_map<int,int>valuetoindexmap;
-     for(int i=0;i<size;i++){
-        valuetoindexmap[inorder[i]]=i;
-     }
-     return constructbinarytreefrominorderandpostordertraversal(postorder,inorder,inorderstart,postorderIndx,inorderend,size,valuetoindexmap);
+        int n=inorder.size();
+        int postOrderIndx=n-1;
+        map<int,int>nodetoIndex;
+        createMapping(inorder,nodetoIndex,n);
+        return createTree(inorder,postorder,nodetoIndex,postOrderIndx,0,n-1,n);
     }
 };
