@@ -11,29 +11,32 @@
  */
 class Solution {
 public:
-TreeNode* constructbinarytreefrompreorderandinordertraversal(vector<int>& preorder, vector<int>& inorder,int inorderstart,int &preorderIndx,int inorderend,int size,unordered_map<int,int>&valuetoindexmap){
-if(preorderIndx>=size||inorderstart>inorderend){
-    return NULL;
-}
-// Step 1:
-int element=preorder[preorderIndx];
-preorderIndx++;
-// Step 2:
-TreeNode*root=new TreeNode(element);
-int posn=valuetoindexmap[element];
-root->left=constructbinarytreefrompreorderandinordertraversal(preorder, inorder, inorderstart, preorderIndx,posn-1,size,valuetoindexmap);
-root->right=constructbinarytreefrompreorderandinordertraversal(preorder, inorder, posn+1, preorderIndx,inorderend,size,valuetoindexmap);
-return root;
-}
+    int findInorder(int x,vector<int>& inorder){
+        for(int i=0;i<inorder.size();i++){
+            if(x==inorder[i]) return i;
+        }
+        return -1;
+    }
+    TreeNode* createNode(vector<int>& preorder, vector<int>& inorder,int &preOrderIndx,int start,int end,int n){
+            if(preOrderIndx>=n||start>end ){
+                return NULL;
+            }
+            // create current Node;
+            int crr=preorder[preOrderIndx++];
+            TreeNode *root=new TreeNode(crr);
+            int posn=findInorder(crr,inorder);
+            root->left=createNode(preorder,inorder,preOrderIndx,start,posn-1,n);
+            root->right=createNode(preorder,inorder,preOrderIndx,posn+1,end,n);
+
+            return root;
+    }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-     int inorderstart=0;
-     int preorderIndx=0;
-     int inorderend=preorder.size()-1;
-     int size=preorder.size();
-     unordered_map<int,int>valuetoindexmap;
-     for(int i=0;i<size;i++){
-        valuetoindexmap[inorder[i]]=i;
-     }
-     return constructbinarytreefrompreorderandinordertraversal(preorder,inorder,inorderstart,preorderIndx,inorderend,size,valuetoindexmap);
+        // inorder-> LNR
+        // preorder-> NLR
+        int n=preorder.size();
+        int preOrderIndx=0;
+        int start=0;
+        int end=n-1;
+        return createNode(preorder,inorder,preOrderIndx,start,end,n);
     }
 };
