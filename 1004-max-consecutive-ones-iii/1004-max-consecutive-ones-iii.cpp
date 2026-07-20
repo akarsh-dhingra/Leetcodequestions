@@ -15,8 +15,10 @@ public:
                 if(nums[l]==0)zeros--;
                 l++;
             }
+         if(zeros<=k){
             int len=r-l+1;
             maxLen=max(maxLen,len);
+         }
             r++;
         }
         return maxLen;
