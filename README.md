@@ -693,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2236-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2236-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
 |  |
