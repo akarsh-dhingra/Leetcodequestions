@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0547-number-of-provinces/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0743-network-delay-time/) | Medium |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0547-number-of-provinces/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0743-network-delay-time/) | Medium |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
