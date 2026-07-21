@@ -1,23 +1,28 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        int n=s.size();
-        int maxlen=0;
-        int l=0;
-        int hash[26]={0};
-        int maxf=0;
-        for(int r=0;r<n;r++){
-            hash[s[r]-'A']++;
-            maxf=max(maxf,hash[s[r]-'A']);
-           int changes=(r-l+1)-maxf;
-            if(changes>k){
-                hash[s[l]-'A']--;
-                l++;
+           int n=s.size();
+           int l=0;
+           int r=0;
+           int maxlen=0;
+           int maxF=0;
+           vector<int>hash(26,0);
+
+            while(r<n){
+                hash[s[r]-'A']++;
+                maxF=max(maxF,hash[s[r]-'A']);
+                while((r-l+1)-maxF>k){
+                    hash[s[l]-'A']--;   
+                 for(int i=0;i<26;i++) maxF=max(maxF,hash[i]);
+                 l++;
+                }
+                if((r-l+1)-maxF<=k){
+                    maxlen=max(maxlen,r-l+1);
+                }
+                r++;
             }
-            if(changes<=k){
-                maxlen=max(maxlen,r-l+1);
-            }
-        }
-        return maxlen;
-        }
+// Return the length of the longest substring containing 
+// the same letter you can get after performing the above operations.
+           return maxlen;
+    }
 };
