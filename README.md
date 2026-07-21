@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
 | [0926-find-and-replace-pattern](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0926-find-and-replace-pattern) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0807-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0846-hand-of-straights) |
+| [0904-fruit-into-baskets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0904-fruit-into-baskets) |
 | [0926-find-and-replace-pattern](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0926-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0940-fruit-into-baskets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0940-fruit-into-baskets) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0940-fruit-into-baskets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0966-binary-subarrays-with-sum) |
