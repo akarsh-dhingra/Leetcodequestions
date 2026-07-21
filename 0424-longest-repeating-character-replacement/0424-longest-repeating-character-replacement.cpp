@@ -11,10 +11,9 @@ public:
             while(r<n){
                 hash[s[r]-'A']++;
                 maxF=max(maxF,hash[s[r]-'A']);
-                while((r-l+1)-maxF>k){
+                if((r-l+1)-maxF>k){
                     hash[s[l]-'A']--;   
-                 for(int i=0;i<26;i++) maxF=max(maxF,hash[i]);
-                 l++;
+                    l++;
                 }
                 if((r-l+1)-maxF<=k){
                     maxlen=max(maxlen,r-l+1);
