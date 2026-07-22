@@ -1,36 +1,35 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        if(s.empty()||t.empty()) return "";
-        int n=s.size();
-        int m=t.size();
-        int minlen=INT_MAX;
-        int sIndx=-1;
-        int cnt=0;
-        int hash[256]={0};
+        // generate all the substrings and compare their freuqnncies 
+        // against t 
+        int n=s.length();
+        long long m=t.size();
+        long long sIndx=-1;
+        long long minLen=INT_MAX;
+          vector<int>hash(256,0);
+             for(auto ch:t){
+                hash[ch]++;
+            }
         int l=0;
         int r=0;
-        for(int i=0;i<m;i++){
-            hash[t[i]]++;
-        }
-        while(r<n){
-            if(hash[s[r]]>0){
-                cnt+=1;
-            }
+        int cnt=0;
+        while(r<s.size()){
+            if(hash[s[r]]>0) cnt=cnt+1;
             hash[s[r]]--;
-            r++;
+
             while(cnt==m){
-               if(r-l<minlen){
-                minlen=r-l;
-                sIndx=l;
-               }
-               hash[s[l]]++;
-               if(hash[s[l]]>0){
-                cnt-=1;
-               }
-               l++;
+                if(r-l+1<minLen){
+                    minLen=r-l+1;
+                    sIndx=l;
+                }
+                hash[s[l]]++;
+                if(hash[s[l]]>0) cnt-=1;
+                l++;
             }
+        r++;
         }
-        return sIndx==-1?"":s.substr(sIndx,minlen);
+        if(sIndx == -1)return "";
+        return s.substr(sIndx,minLen);
     }
 };
