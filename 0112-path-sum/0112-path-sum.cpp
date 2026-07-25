@@ -12,15 +12,12 @@
 class Solution {
 public:
     bool solve(int sum,TreeNode* root,int targetSum){
-        if(root!=NULL){
-            if(root->left==NULL && root->right==NULL){
-                sum+=root->val;
-                if(sum==targetSum) return true;
-                else return false;
-            }
-        }
-        else return false;
+        if(root==NULL) return false;
         sum+=root->val;
+        if(root->left==NULL && root->right==NULL){
+            if(sum==targetSum) return true;
+        }
+        
         bool leftAns=solve(sum,root->left,targetSum);
         bool rightAns=solve(sum,root->right,targetSum);
         return leftAns|rightAns;
