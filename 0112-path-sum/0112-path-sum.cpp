@@ -23,7 +23,6 @@ public:
         sum+=root->val;
         bool leftAns=solve(sum,root->left,targetSum);
         bool rightAns=solve(sum,root->right,targetSum);
-        sum-=root->val;
         return leftAns|rightAns;
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
