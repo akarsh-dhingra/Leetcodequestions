@@ -1006,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1148-article-views-i/) | Easy |
 | [1251-average-selling-price](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1251-average-selling-price/) | Easy |
+| [1280-students-and-examinations](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
