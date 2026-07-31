@@ -11,35 +11,21 @@
  */
 class Solution {
 public:
-    vector<int> inorderTraversal(TreeNode* root) {
-        vector<int>temp={};
-        if(root==NULL){
-            return temp;
+    int solve(TreeNode* root,int &i, int k){
+        if(root==NULL) return -1;
+        int leftAns=solve(root->left,i,k);
+        if(leftAns!=-1){
+            return leftAns;
         }
-        vector<int>left=inorderTraversal(root->left);
-        vector<int>right=inorderTraversal(root->right);
-        temp.insert(temp.end(),left.begin(),left.end());
-        temp.push_back(root->val);
-        temp.insert(temp.end(),right.begin(),right.end());
-        return temp;
+        i++;
+        if(i==k){
+            return root->val;
+        }
+        int rightAns= solve(root->right,i,k);
+        return rightAns;
     }
     int kthSmallest(TreeNode* root, int k) {
-        vector<int>sorted=inorderTraversal(root);
-        return sorted[k-1];
-        // if(root==NULL){
-        //     return 0;
-        // }
-        // TreeNode*temp=root;
-        // queue<TreeNode*>q;
-        // q.push(temp);
-        // while(temp->left){
-        //     q.push(temp->left);
-        // }
-        // int kthsmallest=q.size()-k;
-        // while(kthsmallest!=0){
-        //     q.pop();
-        // }
-        // TreeNode*ansNode=q.front();
-        // return ansNode->val;
+        int i=0;
+        return solve(root,i,k);
     }
 };
