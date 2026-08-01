@@ -7,13 +7,17 @@ public:
         int ans=0;
         for(int i=1;i<=n-2;i++){
             if(nums[i-1]<nums[i] && nums[i]>nums[i+1]){
-                return ans=i;
+                 ans=i;
             }
         }
-        vector<int>temp=nums;
-
-        sort(temp.begin(),temp.end());
-        if(temp==nums) return n-1;
+        bool flag=true;
+        for(int i=0;i<=n-2;i++){
+            if(nums[i]>nums[i+1]){
+                flag=false;
+                break;
+            }
+        }
+        if(flag==true) return n-1;
         else return ans;
     }
 };
