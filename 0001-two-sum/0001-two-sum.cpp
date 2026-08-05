@@ -5,13 +5,14 @@ public:
         int n=nums.size();
         vector<int>ans;
         unordered_map<int,int>mpp;
-      for(int i=0;i<nums.size();i++){
-        if(mpp.find(target-nums[i])!=mpp.end()){
-            ans.push_back(i);
-            ans.push_back(mpp[target-nums[i]]);
+        for(int i=0;i<n;i++){
+            int second=target-nums[i];
+            if(mpp.find(second)!=mpp.end()){
+                ans.push_back(i);
+                ans.push_back(mpp[second]);
+            }
+            mpp[nums[i]]=i;
         }
-        mpp[nums[i]]=i;
-      }
         return ans;
     }
 };
