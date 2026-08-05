@@ -8,10 +8,10 @@ vector<vector<int>>ans;
             if(i!=0 && nums[i]==nums[i-1]) continue;
             int l=i+1;
             int r=n-1;
-            int rhs=-(nums[i]);
+            
             while(l<r){
-                int sum=nums[l]+nums[r];
-                if(sum==rhs){
+                int sum=nums[l]+nums[r]+nums[i];
+                if(sum==0){
                     vector<int>temp={nums[i],nums[l],nums[r]};
                     ans.push_back(temp);
                     l++;
@@ -23,7 +23,7 @@ vector<vector<int>>ans;
                         r--;
                     }
                 }
-                else if(sum<rhs){
+                else if(sum<0){
                     l++;
                 }
                 else{
