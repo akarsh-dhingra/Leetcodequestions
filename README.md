@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0953-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0966-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0986-interval-list-intersections/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0807-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0846-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1288-remove-covered-intervals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
