@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Array
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2406-decode-the-message](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2032-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1406-stone-game-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1406-stone-game-iii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Prefix Sum
