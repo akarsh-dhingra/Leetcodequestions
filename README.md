@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1840-maximum-building-height](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0943-sum-of-subarray-minimums) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1406-stone-game-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -1076,16 +1078,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0239-sliding-window-maximum) |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
