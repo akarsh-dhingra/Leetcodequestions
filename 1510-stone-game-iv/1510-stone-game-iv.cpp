@@ -1,18 +1,23 @@
-constexpr int N=1e5+1;
-uint8_t dp[N];
 class Solution {
 public:
-    bool winnerSquareGame(int n) {
-        memset(dp, 0, n+1);
-        for (int i=1; i<=n; i++) {
-            for (int k=1; k*k<=i; k++) {
-                if (dp[i-k*k]==0) {
-                    dp[i]=1;
-                    break;
-                }
-            }
-        }
-        return dp[n];
+    bool solveUsingRecForAlic(int n){
+        if(n==0) return false;
 
+        for(int k=1;k*k<=n;k++){
+            if(solveUsingRecForAlic(n-k*k)==false) return true;
+        }
+        return false;
+    }
+    int solveUsingMem(int n,vector<bool>&dp){
+        if(n==0) return false;
+        if(dp[n]!=false) return dp[n];
+        for(int k=1;k*k<=n;k++){
+            if(solveUsingMem(n-k*k,dp)==false) return dp[n]= true;
+        }
+        return dp[n]=false;
+    }
+    bool winnerSquareGame(int n) {
+        vector<bool>dp(n+1,false);
+        return solveUsingMem(n,dp);
     }
 };
