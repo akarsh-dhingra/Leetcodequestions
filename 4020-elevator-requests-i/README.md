@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/elevator-requests-i">4020. Elevator Requests I</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code> denoting the number of floors in a building, where the floors are numbered from 0 to <code>n - 1</code>.</p>
+<h2><a href="https://leetcode.com/problems/elevator-requests-i">4384. Elevator Requests I</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code> denoting the number of floors in a building, where the floors are numbered from 0 to <code>n - 1</code>.</p>
 
 <p>You are also given an integer array <code>requests</code>, where <code>requests</code> represents the sequence of floor requests.</p>
 
