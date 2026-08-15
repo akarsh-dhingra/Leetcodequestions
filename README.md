@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3937-minimum-operations-to-make-array-modulo-alternating-i/) | Medium |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |
 | ------- |
