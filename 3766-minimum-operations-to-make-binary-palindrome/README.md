@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome">4099. Minimum Operations to Make Binary Palindrome</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome">3766. Minimum Operations to Make Binary Palindrome</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>For each element <code>nums[i]</code>, you may perform the following operations <strong>any</strong> number of times (including zero):</p>
 
