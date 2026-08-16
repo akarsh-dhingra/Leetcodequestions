@@ -1,35 +1,42 @@
 class Solution {
 public:
-    bool check(int n){
-        string s="";
+    bool checkPalin(int n){
+        string temp="";
         while(n>0){
-            s+=(n&1);
+            temp+=char('0' + (n & 1));
             n=n>>1;
         }
         int i=0;
-        int j=s.size()-1;
+        int j=temp.size()-1;
         while(i<j){
-            if(s[i]!=s[j])return false;
-            i++;
-            j--;
+            if(temp[i]==temp[j]){
+                i++;
+                j--;
+            }
+            else return false;
         }
         return true;
     }
     vector<int> minOperations(vector<int>& nums) {
-
-        vector<int>pl;
-        for(int i=1;i<=5000;i++){
-            if(check(i)) pl.push_back(i);
-        }
+        // ak string bethao 
+        // aur ak palindrome ka function bethao
+        // kuch next greater aur next smaller vaala bhi lg rha hai 
         vector<int>ans;
-        for(int i:nums){
-            int mini=1e9;
-            for(int j:pl){
-                mini=min(mini,abs(i-j));
+        vector<int>pali;
+        for(int i=1;i<=5000;i++){
+            if(checkPalin(i)){
+                pali.push_back(i);
             }
-            ans.push_back(mini);
+        }
+        for(int x:nums){
+            int minDist=INT_MAX;
+            for(int i:pali){
+                if(abs(x-i)<minDist){
+                    minDist=min(minDist,abs(x-i));
+                }
+            }
+            ans.push_back(minDist);
         }
         return ans;
     }
-
 };
