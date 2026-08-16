@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/nearest-available-drone/">4024. Nearest Available Drone</a></h2><h3>Easy</h3><hr><p>You are given a 2D integer array <code>drones</code>, where <code>drones[i] = [x<sub>i</sub>, y<sub>i</sub>, range<sub>i</sub>]</code> represents the x-coordinate, y-coordinate, and travel range of the <code>i<sup>th</sup></code> drone.</p>
+<h2><a href="https://leetcode.com/problems/nearest-available-drone/">4378. Nearest Available Drone</a></h2><h3>Easy</h3><hr><p>You are given a 2D integer array <code>drones</code>, where <code>drones[i] = [x<sub>i</sub>, y<sub>i</sub>, range<sub>i</sub>]</code> represents the x-coordinate, y-coordinate, and travel range of the <code>i<sup>th</sup></code> drone.</p>
 
 <p>You are also given an integer array <code>target = [tx, ty]</code>, representing the coordinates of the target.</p>
 
