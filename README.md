@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1563-stone-game-v/) | Hard |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1563-stone-game-v/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1840-maximum-building-height](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1406-stone-game-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1563-stone-game-v/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -1110,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Minimax
 | Problem Name | Difficulty |
