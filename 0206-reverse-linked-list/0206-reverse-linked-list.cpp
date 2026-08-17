@@ -7,20 +7,17 @@
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
+ If I give the remaining linked list to the recursive function than 
+ that will return what ?? 
+
  */
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-      if(head==NULL || head->next==NULL) return head;
-      ListNode *prev=NULL;
-      ListNode *temp=head;
-
-      while(temp!=NULL){
-        ListNode *curr=temp->next;
-        temp->next=prev;
-        prev=temp;
-        temp=curr;
-      }
-      return prev;
+        if(head==NULL ||head->next==NULL) return head;
+        ListNode*newHead=reverseList(head->next);
+        head->next->next=head;
+        head->next=NULL;
+        return newHead;
     }
 };
