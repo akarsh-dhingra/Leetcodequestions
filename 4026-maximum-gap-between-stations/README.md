@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-gap-between-stations">4034. Maximum Gap Between Stations</a></h2><h3>Medium</h3><hr><p>You are given two strings <code>skill</code> and <code>station</code> of lengths <code>n</code> and <code>m</code>, respectively.</p>
+<h2><a href="https://leetcode.com/problems/maximum-gap-between-stations">4026. Maximum Gap Between Stations</a></h2><h3>Medium</h3><hr><p>You are given two strings <code>skill</code> and <code>station</code> of lengths <code>n</code> and <code>m</code>, respectively.</p>
 
 <p><code>skill[i]</code> represents the skill of worker <code>i</code>, and <code>station[j]</code> represents the skill supported by station <code>j</code>.</p>
 
