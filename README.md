@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0136-single-number) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0062-unique-paths/) | Medium |
+| [0067-add-binary](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0204-count-primes/) | Medium |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0735-asteroid-collision/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
