@@ -22,9 +22,19 @@ public:
         }
         return dp[n];
     }
+    int solveUsingSpaceOpt(int n){
+        int prev1=1;
+        int prev2=1;
+        for(int i=2;i<=n;i++){
+            int curr=prev1+prev2;
+            prev1=prev2;
+            prev2=curr;
+        }
+        return prev2;
+    }
     int climbStairs(int n) {
         // 1. Create a dp arrya of size n
         vector<int>dp(n+1,-1);
-        return solveUsingTab(n);
+        return solveUsingSpaceOpt(n);
     }
 };
