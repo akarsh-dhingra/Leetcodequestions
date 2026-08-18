@@ -27,9 +27,19 @@ public:
             }
             return min(dp[0],dp[1]);
     }
+    int solveUsingOpto(vector<int>&cost,int n){
+        int aage1=0;
+        int aage2=0;
+        for(int i=n-1;i>=0;i--){
+            int curr=cost[i]+min(aage1,aage2);
+            aage2=aage1;
+            aage1=curr;
+        }
+        return min(aage1,aage2);
+    }
     int minCostClimbingStairs(vector<int>& cost) {
         int n=cost.size();
         vector<int>dp(n+1,-1);
-        return solveUsingTab(cost,n);
+        return solveUsingOpto(cost,n);
     }
 };
