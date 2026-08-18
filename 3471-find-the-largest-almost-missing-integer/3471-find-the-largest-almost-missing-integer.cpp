@@ -8,13 +8,10 @@ public:
         if(k==n){
             int ele=INT_MIN;
             for(int x:nums){
-                if(x>ele){
-                    ele=max(ele,x);
-                }
+                ele=max(ele,x);
             }
             return ele;
         }
-
         while(r<n){
             if(r-l+1==k){
                 for(int i=l;i<=r;i++){
@@ -26,10 +23,11 @@ public:
         }
         int ele=INT_MIN;
         for(auto &it:mpp){
-            int x=it.first;
+            int elem=it.first;
             int freq=it.second;
+
             if(freq==1){
-                ele=max(ele,x);
+                ele=max(ele,elem);
             }
         }
         return ele==INT_MIN?-1:ele;
