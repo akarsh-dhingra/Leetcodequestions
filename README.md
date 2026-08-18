@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0735-asteroid-collision/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0792-binary-search](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
