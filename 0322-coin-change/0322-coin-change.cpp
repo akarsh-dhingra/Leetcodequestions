@@ -1,30 +1,39 @@
 class Solution {
 public:
-int unbounded(vector<int>& coins,int amount, int n){
-    vector<vector<unsigned long long>>t(n+1,vector<unsigned long long>(amount+1,0));
-    for (int i = 0; i < n + 1; i++) {
-        for (int j = 0; j < amount + 1; j++) {
-            if (j == 0) t[i][j] = 0;
-            else if (i == 0) t[i][j] = INT_MAX - 1;
+    int solveUsingRec(int n,vector<int>& coins, int amount){
+        if(amount==0){
+            return 0;
         }
-    }
-        for(int j=1;j<amount+1;j++){
-            if(j%coins[0]==0) t[1][j]=j/coins[0];
-            else t[1][j]=INT_MAX-1;
-        }
-    for(int i=2;i<n+1;i++){
-        for(int j=1;j<amount+1;j++){
-            if(coins[i-1]<=j){
-                t[i][j]=min(t[i-1][j],t[i][j-coins[i-1]]+1);
+        if(amount<0) return INT_MAX;
+        int mini=INT_MAX;
+        for(int i=0;i<n;i++){
+            int ans=solveUsingRec(n,coins,amount-coins[i]);
+            if(ans!=INT_MAX){
+                mini=min(mini,1+ans);
             }
-            else t[i][j]=t[i-1][j];
         }
+        return mini;
     }
-  return t[n][amount] == INT_MAX - 1 ? -1 : t[n][amount];
-}
+    int solveUsingMem(vector<int>&dp,vector<int>& coins, int amount){
+        if(amount==0){
+            return 0;
+        }
+        if(amount<0) return INT_MAX;
+        if(dp[amount]!=-1) return dp[amount];
+        int mini=INT_MAX;
+        for(int i=0;i<coins.size();i++){
+            int ans=solveUsingMem(dp,coins,amount-coins[i]);
+            if(ans!=INT_MAX){
+                mini=min(mini,1+ans);
+            }
+        }
+        return dp[amount]=mini;
+    }
     int coinChange(vector<int>& coins, int amount) {
         int n=coins.size();
-        int mincoins=unbounded(coins,amount,n);
-        return mincoins;
+        vector<int>dp(amount+1,-1);
+        int ans= solveUsingMem(dp,coins,amount);
+        if(ans==INT_MAX) return -1;
+        else return ans;
     }
 };
