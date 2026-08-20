@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> resultArray(vector<int>& nums) {
         int n=nums.size();
-        vector<int>result;
         vector<int>arr1;
         vector<int>arr2;
         arr1.push_back(nums[0]);
@@ -15,12 +14,9 @@ public:
                 arr2.push_back(nums[i]);
             }
         }
-        for(int x:arr1){
-            result.push_back(x);
+        for(int x:arr2){
+            arr1.push_back(x);
         }
-        for(int y:arr2){
-            result.push_back(y);
-        }
-        return result;
+        return arr1;
     }
 };
