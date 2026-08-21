@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0908-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
