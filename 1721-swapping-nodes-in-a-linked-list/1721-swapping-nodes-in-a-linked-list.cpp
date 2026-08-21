@@ -10,30 +10,19 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head){
-        if(head==NULL || head->next==NULL) return head;
-        ListNode*temp=head;
-        ListNode*agle=reverseList(temp->next);
-        temp->next->next=temp;
-        temp->next=NULL;
-        return agle;
-    }
     ListNode* swapNodes(ListNode* head, int k) {
-        ListNode*x1=head;
-        int cnt=1;
-        while(cnt<k){
+        ListNode *x1=head;
+        for(int i=1;i<k;i++){
             x1=x1->next;
-            cnt++;
         }
-        ListNode*x2=reverseList(head);
-        ListNode*newHead=x2;
-        cnt=1;
-        while(cnt<k){
-            x2=x2->next;
-            cnt++;
+        ListNode *first=x1;
+        ListNode *second=head;
+        ListNode*temp=x1;
+        while(temp->next!=NULL){
+            temp=temp->next;
+            second=second->next;
         }
-        reverseList(newHead);
-        swap(x1->val,x2->val);
+        swap(first->val,second->val);
         return head;
     }
 };
