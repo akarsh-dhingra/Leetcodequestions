@@ -1,5 +1,5 @@
-SELECT e.name,b.bonus
-FROM EMPLOYEE AS e
-LEFT JOIN BONUS AS b
+SELECT e.name,b.bonus  
+FROM Employee as e
+LEFT JOIN bonus as b
 ON e.empId=b.empId
 WHERE b.bonus<1000 OR b.bonus IS NULL
