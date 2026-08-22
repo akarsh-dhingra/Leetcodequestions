@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0021-merge-two-sorted-lists/) | Easy |
@@ -30,8 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0016-3sum-closest) |
@@ -77,8 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0015-3sum/) | Medium |
@@ -229,8 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3937-minimum-operations-to-make-array-modulo-alternating-i/) | Medium |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0035-search-insert-position) |
@@ -268,8 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0025-reverse-nodes-in-k-group) |
@@ -279,8 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0012-integer-to-roman/) | Medium |
@@ -345,8 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3941-password-strength/) | Medium |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0078-subsets) |
@@ -365,8 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0039-combination-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0078-subsets) |
@@ -376,8 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0013-roman-to-integer/) | Easy |
@@ -412,13 +412,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
-| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0006-zigzag-conversion) |
@@ -481,8 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3941-password-strength](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3941-password-strength/) | Medium |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0018-4sum/) | Medium |
@@ -525,8 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3731-find-missing-elements) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -558,8 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2227-sum-of-subarray-ranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0735-asteroid-collision/) | Medium |
@@ -571,8 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0045-jump-game-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0135-candy) |
@@ -602,8 +602,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0045-jump-game-ii) |
@@ -642,8 +642,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -661,19 +661,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0386-lexicographical-numbers) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0812-rotate-string) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0239-sliding-window-maximum) |
@@ -702,8 +702,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0347-top-k-frequent-elements) |
@@ -718,8 +718,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0225-implement-stack-using-queues) |
@@ -728,14 +728,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0937-online-stock-span) |
 | [2336-smallest-number-in-infinite-set](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0085-maximal-rectangle/) | Hard |
@@ -750,8 +750,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2227-sum-of-subarray-ranges](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0100-same-tree) |
@@ -790,8 +790,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0100-same-tree) |
@@ -834,8 +834,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -868,8 +868,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0100-same-tree) |
@@ -907,8 +907,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -921,8 +921,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0493-reverse-pairs/) | Hard |
 | [0948-sort-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0948-sort-an-array) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -932,13 +932,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0937-online-stock-span) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0239-sliding-window-maximum) |
@@ -954,12 +954,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0239-sliding-window-maximum) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0074-search-a-2d-matrix) |
@@ -973,55 +973,55 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1765-map-of-highest-peak/) | Medium |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0948-sort-an-array) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0148-sort-list/) | Medium |
 | [0493-reverse-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0493-reverse-pairs/) | Hard |
 | [0948-sort-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0948-sort-an-array) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0948-sort-an-array) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0948-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1833-maximum-ice-cream-bars) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3937-minimum-operations-to-make-array-modulo-alternating-i/) | Medium |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0204-count-primes/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0493-reverse-pairs/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0547-number-of-provinces/) | Medium |
@@ -1032,8 +1032,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0133-clone-graph](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0210-course-schedule-ii/) | Medium |
@@ -1048,44 +1048,44 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0210-course-schedule-ii/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Eulerian Circuit
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2097-valid-arrangement-of-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0743-network-delay-time](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0493-reverse-pairs/) | Hard |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0493-reverse-pairs/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0062-unique-paths/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0183-customers-who-never-order/) | Easy |
@@ -1121,16 +1121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-employees-whose-manager-left-the-company](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Sweep Line
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0986-interval-list-intersections/) | Medium |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0146-lru-cache/) | Medium |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0486-predict-the-winner](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1140-stone-game-ii) |
@@ -1139,38 +1139,38 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Minimax
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1140-stone-game-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1140-stone-game-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Range Minimum/Maximum Query
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0239-sliding-window-maximum) |
 ## Nim Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
 ## Knapsack Problem
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0322-coin-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0322-coin-change) |
 ## Complete Knapsack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0322-coin-change](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
