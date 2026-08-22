@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
