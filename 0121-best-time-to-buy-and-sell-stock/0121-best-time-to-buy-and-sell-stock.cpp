@@ -1,15 +1,17 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int n=prices.size();
-        int initProfit=0;
+        // saare parts krna 
+        int maxProfit=0;
         int mini=prices[0];
-        // If I buy of a particular day then I will sell it on ith day
-        for(int i=1;i<n;i++){
-            int diff=prices[i]-mini;  // because I will always buy on the mini day
-            initProfit=max(initProfit,diff);
-            mini=min(prices[i],mini);
+        for(int i=1;i<prices.size();i++){
+            if(prices[i]-mini>maxProfit){
+                maxProfit=prices[i]-mini;
+            }
+            else{
+                mini=min(mini,prices[i]);
+            }
         }
-        return initProfit;
+        return maxProfit;   
     }
 };
