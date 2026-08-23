@@ -8,7 +8,7 @@ class Solution {
             }
             else{
                 if(st.empty()) return false;
-                else if((st.top()=='(' && s[i]==')') || (st.top()=='[' && s[i]==']') ||(st.top()=='{' && s[i]=='}')){
+                else if(( s[i]==')'&&st.top()=='(' ) || (s[i]==']' && st.top()=='[') ||(s[i]=='}' && st.top()=='{' )){
                     st.pop();
                 }
                 else return false;
