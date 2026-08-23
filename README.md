@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2406-decode-the-message) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2032-largest-odd-number-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1765-map-of-highest-peak/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2965-find-missing-and-repeated-values) |
 ## Bucket Sort
 |  |
 | ------- |
