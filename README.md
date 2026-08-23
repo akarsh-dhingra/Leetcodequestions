@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1840-maximum-building-height](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2032-largest-odd-number-in-string) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1927-sum-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2032-largest-odd-number-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1927-sum-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2032-largest-odd-number-in-string) |
@@ -1140,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
