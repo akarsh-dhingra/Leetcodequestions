@@ -20,38 +20,36 @@ and then eventually start compa
 
 class Solution {
 public:
-    ListNode *reverse(ListNode *head){
-        ListNode*prev=NULL;
-        ListNode*curr=head;
-        while(curr!=NULL){
-            ListNode*nextNode=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=nextNode;
-        }
-        return prev;
-    }
-    ListNode*findMid(ListNode *head){
-        ListNode *slow=head;
-        ListNode *fast=head;
-
+    ListNode *findMid(ListNode*start){
+        if(start==NULL || start->next==NULL) return start;
+        ListNode *slow=start;
+        ListNode *fast=start;
         while(fast->next!=NULL && fast->next->next!=NULL){
             slow=slow->next;
             fast=fast->next->next;
-        }
+        }   
         return slow;
     }
+    ListNode *reverseList(ListNode *start){
+        if(start==NULL || start->next==NULL) return start;
+        ListNode *temp=start;
+        ListNode *agla=reverseList(temp->next);
+        temp->next->next=temp;
+        temp->next=NULL;
+        return agla;
+    }
     bool isPalindrome(ListNode* head) {
-        ListNode*mid=findMid(head);
-        ListNode*second=reverse(mid->next);
-        ListNode*first=head;
-        
-        while(second!=NULL){
-            if(first->val!=second->val){
+        ListNode*start=head;
+        ListNode*mid=findMid(start);
+        ListNode*end=reverseList(mid->next);
+        while(end!=NULL){
+            if(start->val==end->val){
+                start=start->next;
+                end=end->next;
+            }
+            else{
                 return false;
             }
-            first=first->next;
-            second=second->next;
         }
         return true;
     }
