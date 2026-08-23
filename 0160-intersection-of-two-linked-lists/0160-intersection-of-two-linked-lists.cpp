@@ -8,39 +8,41 @@
  */
 class Solution {
 public:
-    ListNode *collisionPoint(ListNode *slow, ListNode *fast,int d){
-        while(d--){
-            fast=fast->next;
+    int findLength(ListNode *head){
+        ListNode *temp=head;
+        int cnt=0;
+        while(temp!=NULL){
+            cnt++;
+            temp=temp->next;
         }
-        while(slow!=fast){
-            slow=slow->next;
-            fast=fast->next;
-        }
-        return slow;
+        return cnt;
     }
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        if(headA==NULL||headB==NULL) return headA;
-
-        ListNode *tempA=headA;
-        ListNode *tempB=headB;
-        int l1=0;
-        int l2=0;
-        while(tempA!=NULL){
-            tempA=tempA->next;
-            l1++;
-        }
-        while(tempB!=NULL){
-            tempB=tempB->next;
-            l2++;
-        }
-        tempA=headA;
-        tempB=headB;
-
+        int l1=findLength(headA);
+        int l2=findLength(headB);
+        ListNode*temp1=headA;
+        ListNode*temp2=headB;
         if(l1<l2){
-            return collisionPoint(tempA,tempB,l2-l1);
+            int diff=l2-l1;
+            while(diff!=0){
+                temp2=temp2->next;
+                diff--;
+            }
         }
-        else{
-            return collisionPoint(tempB,tempA,l1-l2);
+        else {
+            int diff2=l1-l2;
+            while(diff2!=0){
+                temp1=temp1->next;
+                diff2--;
+            }
         }
+        while(1){
+            if(temp1==temp2){
+                return temp1;
+            }
+            if(temp1!=NULL)temp1=temp1->next;
+            if(temp2!=NULL)temp2=temp2->next;
+        }
+        return NULL;
     }
 };
