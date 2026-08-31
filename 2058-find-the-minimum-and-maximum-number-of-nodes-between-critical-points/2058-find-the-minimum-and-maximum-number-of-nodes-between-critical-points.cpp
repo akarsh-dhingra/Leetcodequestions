@@ -7,15 +7,17 @@
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
- */
-class Solution {
-public:
-    vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        // Critical Point in the Linked List 
+
+// Critical Point in the Linked List 
         // localMaxima 
         // localMinima
         // temp and head 
         // if length <=3
+
+ */
+class Solution {
+public:
+    vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         vector<int>mpp;
         ListNode *temp=head->next;
         int indx=2;
@@ -31,9 +33,9 @@ public:
         }
 
         if(mpp.size()<=1) return {-1,-1};
-        int miniD=INT_MAX;
-        int maxiD=*max_element(mpp.begin(),mpp.end())-*min_element(mpp.begin(),mpp.end());
+    int miniD=INT_MAX;
         sort(mpp.begin(),mpp.end());
+        int maxiD=mpp[mpp.size()-1]-mpp[0];
         for(int i=1;i<mpp.size();i++){
             miniD=min(miniD,mpp[i]-mpp[i-1]);
         }   
