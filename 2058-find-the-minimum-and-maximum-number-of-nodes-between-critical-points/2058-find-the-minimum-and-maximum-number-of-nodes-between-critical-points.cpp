@@ -20,7 +20,7 @@ public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         vector<int>mpp;
         ListNode *temp=head->next;
-        int indx=2;
+        int indx=1;
         ListNode *prev=head;
         while(temp!=NULL && temp->next!=NULL){
             ListNode*next=temp->next;
@@ -33,7 +33,7 @@ public:
         }
 
         if(mpp.size()<=1) return {-1,-1};
-    int miniD=INT_MAX;
+        int miniD=INT_MAX;
         sort(mpp.begin(),mpp.end());
         int maxiD=mpp[mpp.size()-1]-mpp[0];
         for(int i=1;i<mpp.size();i++){
