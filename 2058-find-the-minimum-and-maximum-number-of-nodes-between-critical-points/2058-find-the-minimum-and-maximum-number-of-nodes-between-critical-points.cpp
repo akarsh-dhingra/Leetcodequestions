@@ -18,28 +18,28 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        vector<int>mpp;
-        ListNode *temp=head->next;
-        int indx=1;
+        if(head==NULL|| head->next==NULL) return {-1,-1};
         ListNode *prev=head;
-        while(temp!=NULL && temp->next!=NULL){
-            ListNode*next=temp->next;
-            if((prev->val < temp->val && temp->val > next->val)||(               prev->val >temp->val && next->val > temp->val)){
-                mpp.push_back(indx);
+        ListNode *curr=head->next;
+        int indx=1;
+        int firstPosition=0;
+        int prevPosition=0;
+        int minDist=INT_MAX;
+        while(curr->next!=NULL){
+            ListNode *next=curr->next;
+            if((prev->val < curr->val && curr->val > next->val)||(               prev->val >curr->val && next->val > curr->val)){
+                if(prevPosition!=0){
+                    minDist=min(minDist,indx-prevPosition);
+                }
+                if(firstPosition==0)firstPosition=indx;
+                prevPosition=indx;
             }
-            prev=temp;
-            temp=next;
             indx++;
+            prev=curr;
+            curr=next;
         }
 
-        if(mpp.size()<=1) return {-1,-1};
-        int miniD=INT_MAX;
-        sort(mpp.begin(),mpp.end());
-        int maxiD=mpp[mpp.size()-1]-mpp[0];
-        for(int i=1;i<mpp.size();i++){
-            miniD=min(miniD,mpp[i]-mpp[i-1]);
-        }   
-        return {miniD,maxiD};
-        
+        if(minDist==INT_MAX) return {-1,-1};
+        else return {minDist,prevPosition-firstPosition};
     }
 };
