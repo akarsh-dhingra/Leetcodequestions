@@ -28,11 +28,14 @@ public:
         while(curr->next!=NULL){
             ListNode *next=curr->next;
             if((prev->val < curr->val && curr->val > next->val)||(               prev->val >curr->val && next->val > curr->val)){
-                if(prevPosition!=0){
-                    minDist=min(minDist,indx-prevPosition);
+                if(prevPosition==0){
+                    prevPosition=indx;
+                    firstPosition=indx;
                 }
-                if(firstPosition==0)firstPosition=indx;
-                prevPosition=indx;
+                else{
+                    minDist=min(minDist,indx-prevPosition);
+                    prevPosition=indx;
+                }
             }
             indx++;
             prev=curr;
