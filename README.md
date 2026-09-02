@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3731-find-missing-elements) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3838-weighted-word-mapping](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3937-minimum-operations-to-make-array-modulo-alternating-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akarsh-dhingra/Leetcodequestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
