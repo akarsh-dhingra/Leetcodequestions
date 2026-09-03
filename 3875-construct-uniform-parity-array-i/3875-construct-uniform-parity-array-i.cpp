@@ -1,8 +1,10 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        // we have to return true if it is possible to construct 
-        // such kind of an array    
+       
+        // all even always true
+        // all odd always true
+        // mix even odd always true
         return true;
     }
 };
