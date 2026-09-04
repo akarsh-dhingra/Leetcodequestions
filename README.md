@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3937-minimum-operations-to-make-array-modulo-alternating-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/akarsh-dhingra/Leetcodequestions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
