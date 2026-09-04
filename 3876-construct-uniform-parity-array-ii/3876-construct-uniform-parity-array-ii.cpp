@@ -16,7 +16,7 @@ public:
     // Tabhi bna skte ho agr aapke paas all even and no odd ho toh uss case
     //  mai only possible hai varna nahi hai it's not at all possible otherwise.
     int mini=*min_element(nums1.begin(),nums1.end());
-    if(mini%2!=0) return true;
+    if(mini%2==1) return true;
     for(int x:nums1){
         if(x%2==1) return false;
     }
